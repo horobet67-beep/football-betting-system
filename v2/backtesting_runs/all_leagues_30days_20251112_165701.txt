@@ -1,0 +1,221 @@
+
+====================================================================================================
+                    🏆 COMPLETE 30-DAY BACKTEST - ALL LEAGUES 🏆
+====================================================================================================
+
+====================================================================================================
+PREMIER LEAGUE - Last 30 Days (Detailed)
+====================================================================================================
+Loaded Premier League 2023-2024: 380 matches
+Loaded Premier League 2024-2025: 380 matches
+Loaded Premier League 2025-2026: 110 matches
+Loaded 870 Premier League matches
+Using 29 patterns (filtered from 32)
+Period: 2025-10-10 to 2025-11-09
+Total matches: 40
+
+Date         Match                                  Pattern                        Conf   Res  Score
+----------------------------------------------------------------------------------------------------
+2025-10-18   Nottingham Forest vs Chelsea           away_over_0_5_cards             84.8% ✅    0-3  
+2025-10-18   Manchester City vs Everton             away_over_0_5_cards             83.7% ✅    2-0  
+2025-10-18   Burnley vs Leeds United                away_over_0_5_cards             83.7% ✅    2-0  
+2025-10-18   Crystal Palace vs AFC Bournemouth      away_over_0_5_cards             84.6% ✅    3-3  
+2025-10-18   Brighton & Hove Al vs Newcastle United away_over_0_5_cards             83.7% ✅    2-1  
+2025-10-18   Sunderland vs Wolverhampton Wand       away_over_0_5_cards             83.7% ❌    2-0  
+2025-10-18   Fulham vs Arsenal                      total_over_1_5_goals            81.5% ❌    0-1  
+2025-10-19   Tottenham Hotspur vs Aston Villa       away_over_0_5_cards             76.4% ❌    1-2  
+2025-10-19   Liverpool vs Manchester United         home_over_2_5_corners           76.1% ✅    1-2  
+2025-10-20   West Ham United vs Brentford           home_over_2_5_corners           76.9% ✅    0-2  
+2025-10-24   Leeds United vs West Ham United        home_over_2_5_corners           78.3% ✅    2-1  
+2025-10-25   Chelsea vs Sunderland                  away_over_2_5_corners           77.4% ❌    1-2  
+2025-10-25   Newcastle United vs Fulham             away_over_2_5_corners           79.4% ✅    2-1  
+2025-10-25   Manchester United vs Brighton & Hove Al total_over_1_5_goals            79.1% ✅    4-2  
+2025-10-25   Brentford vs Liverpool                 away_over_0_5_cards             80.6% ✅    3-2  
+2025-10-26   Wolverhampton Wand vs Burnley          away_over_0_5_cards             81.7% ❌    2-3  
+2025-10-26   Aston Villa vs Manchester City         away_over_0_5_cards             81.7% ✅    1-0  
+2025-10-26   Arsenal vs Crystal Palace              away_over_0_5_cards             81.7% ❌    1-0  
+2025-10-26   AFC Bournemouth vs Nottingham Forest   away_over_0_5_cards             83.5% ✅    2-0  
+2025-10-26   Everton vs Tottenham Hotspur           home_over_0_5_goals             81.3% ❌    0-3  
+2025-11-01   Nottingham Forest vs Manchester United away_over_2_5_corners           78.6% ✅    2-2  
+2025-11-01   Burnley vs Arsenal                     home_over_2_5_corners           81.1% ❌    0-2  
+2025-11-01   Fulham vs Wolverhampton Wand           away_over_2_5_corners           80.8% ❌    3-0  
+2025-11-01   Crystal Palace vs Brentford            home_over_0_5_goals             79.7% ✅    2-0  
+2025-11-01   Brighton & Hove Al vs Leeds United     home_over_2_5_corners           81.1% ✅    3-0  
+2025-11-01   Tottenham Hotspur vs Chelsea           home_over_0_5_goals             78.6% ❌    0-1  
+2025-11-01   Liverpool vs Aston Villa               home_over_3_5_corners           78.0% ❌    2-0  
+2025-11-02   West Ham United vs Newcastle United    away_over_2_5_corners           76.0% ✅    3-1  
+2025-11-02   Manchester City vs AFC Bournemouth     away_over_0_5_cards             81.6% ✅    3-1  
+2025-11-03   Sunderland vs Everton                  away_over_2_5_corners           81.0% ❌    1-1  
+2025-11-08   Tottenham Hotspur vs Manchester United away_over_0_5_cards             81.2% ✅    2-2  
+2025-11-08   Everton vs Fulham                      home_over_2_5_corners           79.3% ✅    2-0  
+2025-11-08   West Ham United vs Burnley             home_over_2_5_corners           79.3% ✅    3-2  
+2025-11-08   Sunderland vs Arsenal                  total_over_1_5_goals            79.2% ✅    2-2  
+2025-11-08   Chelsea vs Wolverhampton Wand          away_over_0_5_cards             81.6% ✅    3-0  
+2025-11-09   Crystal Palace vs Brighton & Hove Al   away_over_0_5_cards             81.0% ✅    0-0  
+2025-11-09   Nottingham Forest vs Leeds United      away_over_0_5_cards             81.9% ✅    3-1  
+2025-11-09   Brentford vs Newcastle United          away_over_0_5_cards             81.0% ✅    3-1  
+2025-11-09   Aston Villa vs AFC Bournemouth         away_over_0_5_cards             81.9% ✅    4-0  
+2025-11-09   Manchester City vs Liverpool           away_over_0_5_cards             83.7% ✅    3-0  
+
+Bets: 40, Wins: 28, Win Rate: 70.0%
+
+====================================================================================================
+BUNDESLIGA - Last 30 Days (Detailed)
+====================================================================================================
+Period: 2025-10-09 to 2025-11-08
+Total matches: 33
+
+Date         Match                                  Pattern                        Conf   Res  Score
+----------------------------------------------------------------------------------------------------
+2025-10-17   Union Berlin vs Borussia M'gladbac     home_over_2_5_corners           67.5% ✅    3-1  
+2025-10-18   Köln vs Augsburg                       home_over_2_5_corners           74.8% ✅    1-1  
+2025-10-18   Heidenheim vs Werder Bremen            home_over_2_5_corners           70.8% ✅    2-2  
+2025-10-18   Mainz 05 vs Bayer Leverkusen           home_over_2_5_corners           71.4% ❌    3-4  
+2025-10-18   RB Leipzig vs Hamburger SV             home_over_2_5_corners           75.5% ✅    2-1  
+2025-10-18   Wolfsburg vs Stuttgart                 home_over_2_5_corners           71.2% ✅    0-3  
+2025-10-18   Bayern München vs Borussia Dortmund    total_over_1_5_goals            79.0% ✅    2-1  
+2025-10-19   Freiburg vs Eintracht Frankfur         total_over_1_5_goals            74.8% ✅    2-2  
+2025-10-19   St. Pauli vs Hoffenheim                total_over_1_5_goals            74.6% ✅    0-3  
+2025-10-24   Werder Bremen vs Union Berlin          home_over_2_5_corners           78.9% ✅    1-0  
+2025-10-25   Hoffenheim vs Heidenheim               home_over_2_5_corners           79.4% ✅    3-1  
+2025-10-25   Borussia M'gladbac vs Bayern München   home_over_2_5_corners           75.9% ❌    0-3  
+2025-10-25   Augsburg vs RB Leipzig                 home_over_2_5_corners           77.3% ❌    0-6  
+2025-10-25   Hamburger SV vs Wolfsburg              home_over_2_5_corners           78.1% ✅    0-1  
+2025-10-25   Eintracht Frankfur vs St. Pauli        home_over_2_5_corners           79.4% ❌    2-0  
+2025-10-25   Borussia Dortmund vs Köln              total_over_1_5_goals            70.2% ❌    1-0  
+2025-10-26   Bayer Leverkusen vs Freiburg           total_over_7_5_corners          69.1% ❌    2-0  
+2025-10-26   Stuttgart vs Mainz 05                  away_over_2_5_corners           65.3% ✅    2-1  
+2025-10-31   Augsburg vs Borussia Dortmund          away_over_2_5_corners           69.3% ✅    0-1  
+2025-11-01   Mainz 05 vs Werder Bremen              away_over_2_5_corners           70.1% ❌    1-1  
+2025-11-01   RB Leipzig vs Stuttgart                away_over_2_5_corners           74.2% ✅    3-1  
+2025-11-01   Union Berlin vs Freiburg               away_over_2_5_corners           70.0% ✅    0-0  
+2025-11-01   Heidenheim vs Eintracht Frankfur       away_over_2_5_corners           71.5% ✅    1-1  
+2025-11-01   St. Pauli vs Borussia M'gladbac        away_over_2_5_corners           66.9% ❌    0-4  
+2025-11-01   Bayern München vs Bayer Leverkusen     away_over_2_5_corners           71.2% ✅    3-0  
+2025-11-02   Köln vs Hamburger SV                   away_over_2_5_corners           69.4% ✅    4-1  
+2025-11-02   Wolfsburg vs Hoffenheim                away_over_2_5_corners           71.1% ❌    2-3  
+2025-11-07   Werder Bremen vs Wolfsburg             total_over_1_5_goals            67.0% ✅    2-1  
+2025-11-08   Hamburger SV vs Borussia Dortmund      total_over_1_5_goals            73.9% ✅    1-1  
+2025-11-08   Hoffenheim vs RB Leipzig               total_over_1_5_goals            76.5% ✅    3-1  
+2025-11-08   Bayer Leverkusen vs Heidenheim         total_over_1_5_goals            74.1% ✅    6-0  
+2025-11-08   Union Berlin vs Bayern München         total_over_1_5_goals            76.5% ✅    2-2  
+2025-11-08   Borussia M'gladbac vs Köln             total_over_1_5_goals            77.0% ✅    3-1  
+
+Bets: 33, Wins: 24, Win Rate: 72.7%
+
+====================================================================================================
+LA LIGA - Last 30 Days (Detailed)
+====================================================================================================
+Period: 2025-10-10 to 2025-11-09
+Total matches: 40
+
+Date         Match                                  Pattern                        Conf   Res  Score
+----------------------------------------------------------------------------------------------------
+2025-10-17   Real Oviedo vs RCD Espanyol            away_over_0_5_cards             82.8% ✅    0-2  
+2025-10-18   Sevilla FC vs RCD Mallorca             away_over_0_5_cards             81.7% ✅    1-3  
+2025-10-18   FC Barcelona vs Girona FC              home_over_0_5_cards             82.0% ✅    2-1  
+2025-10-18   Villarreal vs Real Betis               away_over_0_5_cards             83.9% ✅    2-2  
+2025-10-18   Atlético Madrid vs CA Osasuna          away_over_0_5_cards             81.6% ✅    1-0  
+2025-10-19   Elche CF vs Athletic Club Bilb         home_over_2_5_corners           77.1% ✅    0-0  
+2025-10-19   Celta de Vigo vs Real Sociedad         home_over_2_5_corners           74.7% ❌    1-1  
+2025-10-19   Levante UD vs Rayo Vallecano           home_over_2_5_corners           78.7% ✅    0-3  
+2025-10-19   Getafe CF vs Real Madrid               away_over_0_5_cards             82.9% ✅    0-1  
+2025-10-20   Deportivo Alavés vs Valencia CF        home_over_0_5_cards             80.0% ✅    0-0  
+2025-10-24   Real Sociedad vs Sevilla FC            away_over_0_5_cards             82.9% ✅    2-1  
+2025-10-25   Girona FC vs Real Oviedo               home_over_0_5_cards             78.8% ✅    3-3  
+2025-10-25   RCD Espanyol vs Elche CF               away_over_0_5_cards             82.9% ✅    1-0  
+2025-10-25   Athletic Club Bilb vs Getafe CF        home_over_0_5_cards             80.5% ✅    0-1  
+2025-10-25   Valencia CF vs Villarreal              away_over_0_5_cards             84.6% ✅    0-2  
+2025-10-26   RCD Mallorca vs Levante UD             home_over_0_5_cards             80.7% ✅    1-1  
+2025-10-26   Real Betis vs Atlético Madrid          away_over_0_5_cards             84.0% ✅    0-2  
+2025-10-26   Real Madrid vs FC Barcelona            away_over_0_5_cards             81.7% ✅    2-1  
+2025-10-26   CA Osasuna vs Celta de Vigo            home_over_0_5_cards             82.1% ✅    2-3  
+2025-10-26   Rayo Vallecano vs Deportivo Alavés     home_over_2_5_corners           64.4% ✅    1-0  
+2025-10-31   Getafe CF vs Girona FC                 home_over_2_5_corners           70.8% ✅    2-1  
+2025-11-01   Villarreal vs Rayo Vallecano           away_over_0_5_cards             82.0% ✅    4-0  
+2025-11-01   Atlético Madrid vs Sevilla FC          home_over_0_5_cards             81.7% ❌    3-0  
+2025-11-01   Real Sociedad vs Athletic Club Bilb    home_over_2_5_corners           72.2% ✅    3-2  
+2025-11-01   Real Madrid vs Valencia CF             home_over_0_5_cards             82.9% ✅    4-0  
+2025-11-02   Levante UD vs Celta de Vigo            away_over_0_5_cards             81.2% ✅    1-2  
+2025-11-02   Deportivo Alavés vs RCD Espanyol       away_over_0_5_cards             82.7% ✅    2-1  
+2025-11-02   FC Barcelona vs Elche CF               home_over_0_5_cards             82.5% ❌    3-1  
+2025-11-02   Real Betis vs RCD Mallorca             away_over_0_5_cards             78.8% ✅    3-0  
+2025-11-03   Real Oviedo vs CA Osasuna              home_over_2_5_corners           74.4% ✅    0-0  
+2025-11-07   Elche CF vs Real Sociedad              away_over_0_5_cards             81.1% ✅    1-1  
+2025-11-08   Girona FC vs Deportivo Alavés          away_over_0_5_cards             80.9% ✅    1-0  
+2025-11-08   Sevilla FC vs CA Osasuna               home_over_2_5_corners           72.0% ✅    1-0  
+2025-11-08   Atlético Madrid vs Levante UD          away_over_0_5_cards             81.1% ❌    3-1  
+2025-11-08   RCD Espanyol vs Villarreal             home_over_2_5_corners           74.2% ✅    0-2  
+2025-11-09   Athletic Club Bilb vs Real Oviedo      away_over_0_5_cards             81.3% ✅    1-0  
+2025-11-09   Rayo Vallecano vs Real Madrid          away_over_0_5_cards             80.9% ✅    0-0  
+2025-11-09   RCD Mallorca vs Getafe CF              away_over_0_5_cards             83.0% ✅    1-0  
+2025-11-09   Valencia CF vs Real Betis              home_over_2_5_corners           75.8% ✅    1-1  
+2025-11-09   Celta de Vigo vs FC Barcelona          home_over_2_5_corners           75.6% ❌    2-4  
+
+Bets: 40, Wins: 35, Win Rate: 87.5%
+
+====================================================================================================
+ROMANIA LIGA I - Last 30 Days (Detailed)
+====================================================================================================
+Period: 2025-10-10 to 2025-11-09
+Total matches: 27
+
+Date         Match                                  Pattern                        Conf   Res  Score
+----------------------------------------------------------------------------------------------------
+2025-10-16   Csikszereda vs CFR Cluj                away_over_0_5_cards             89.0% ✅    2-2  
+2025-10-18   Universitatea Cluj vs Botoşani         away_over_0_5_cards             92.2% ❌    0-2  
+2025-10-18   CS U Craiova vs Unirea Slobozia        home_over_0_5_cards             93.8% ✅    3-1  
+2025-10-18   Metaloglobus vs FCSB                   home_over_0_5_cards             93.8% ✅    2-1  
+2025-10-19   UTA Arad vs Oţelul Galaţi              home_over_0_5_cards             97.0% ✅    0-4  
+2025-10-19   Dinamo Bucureşti vs Rapid Bucureşti    home_over_0_5_cards             97.3% ❌    0-2  
+2025-10-20   Hermannstadt vs Csikszereda            away_over_2_5_corners           89.5% ❌    0-2  
+2025-10-20   Petrolul 52 vs CFR Cluj                away_over_0_5_goals             88.4% ❌    1-0  
+2025-10-24   Csikszereda vs Petrolul 52             away_over_0_5_cards             85.8% ✅    1-1  
+2025-10-24   Argeș vs Dinamo Bucureşti              away_over_0_5_cards             86.7% ✅    1-1  
+2025-10-25   Oţelul Galaţi vs Universitatea Cluj    away_over_0_5_cards             93.8% ✅    1-2  
+2025-10-25   CFR Cluj vs SSC Farul                  away_over_0_5_cards             94.1% ✅    0-2  
+2025-10-26   FCSB vs UTA Arad                       away_over_0_5_cards             95.0% ✅    4-0  
+2025-10-27   Botoşani vs Hermannstadt               away_over_0_5_cards             95.3% ✅    2-0  
+2025-10-27   Rapid Bucureşti vs Unirea Slobozia     away_over_0_5_cards             95.5% ❌    4-1  
+2025-10-31   Dinamo Bucureşti vs CFR Cluj           total_over_1_5_goals            85.2% ✅    2-1  
+2025-11-01   Unirea Slobozia vs Argeș               total_over_1_5_goals            85.3% ❌    0-1  
+2025-11-01   Universitatea Cluj vs FCSB             home_over_2_5_corners           86.3% ✅    0-2  
+2025-11-02   UTA Arad vs Metaloglobus               home_over_2_5_corners           86.7% ✅    2-0  
+2025-11-02   Hermannstadt vs Oţelul Galaţi          home_over_2_5_corners           86.9% ✅    1-3  
+2025-11-02   CS U Craiova vs Rapid Bucureşti        home_over_2_5_corners           86.9% ✅    2-2  
+2025-11-03   SSC Farul vs Csikszereda               home_over_2_5_corners           86.8% ✅    3-0  
+2025-11-07   Universitatea Cluj vs Metaloglobus     home_over_2_5_corners           90.5% ✅    3-1  
+2025-11-07   SSC Farul vs Botoşani                  home_over_2_5_corners           90.7% ✅    2-0  
+2025-11-08   Dinamo Bucureşti vs Csikszereda        home_over_0_5_cards             93.1% ✅    4-0  
+2025-11-08   Rapid Bucureşti vs Argeș               home_over_0_5_cards             93.2% ✅    2-0  
+2025-11-09   Unirea Slobozia vs CFR Cluj            home_over_0_5_cards             93.4% ✅    0-1  
+
+Bets: 27, Wins: 21, Win Rate: 77.8%
+
+====================================================================================================
+                                   📊 OVERALL SUMMARY
+====================================================================================================
+
+League               Bets     Wins     Losses   Win Rate     Performance    
+----------------------------------------------------------------------------------------------------
+Premier League       40       28       12         70.0%      👍 Good         
+Bundesliga           33       24       9          72.7%      👍 Good         
+La Liga              40       35       5          87.5%      🔥 Excellent    
+Romania Liga I       27       21       6          77.8%      ✅ Very Good    
+----------------------------------------------------------------------------------------------------
+TOTAL                140      108      32         77.1%
+
+====================================================================================================
+✅ System Performance: 77.1% Win Rate across 140 bets
+🎯 EXCELLENT: System is performing very well! Ready for production.
+====================================================================================================
+
+
+====================================================================================================
+BACKTEST METADATA
+====================================================================================================
+Generated: 2025-11-12 16:57:10
+Backtest Period: 30 days
+Total Leagues: 4 (Premier League, Bundesliga, La Liga, Romania Liga I)
+Output File: backtesting_runs/all_leagues_30days_20251112_165701.txt
+====================================================================================================

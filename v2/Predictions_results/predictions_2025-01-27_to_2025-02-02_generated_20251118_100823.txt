@@ -1,0 +1,1381 @@
+========================================================================================================================
+🎯 FOOTBALL BETTING PREDICTIONS - MULTI-LEAGUE SYSTEM
+========================================================================================================================
+📅 Date Range: 2025-01-27 → 2025-02-02
+📊 Generated: 2025-11-18 10:08:28
+✅ Total Predictions: 48 bets across 5 leagues
+📈 Completed: 48 | Pending: 0
+🎯 Results: 39 WIN (81.2%) | 9 LOSS (18.8%)
+========================================================================================================================
+
+📊 LEAGUE SUMMARY
+------------------------------------------------------------------------------------------------------------------------
+🇩🇪 Bundesliga             9 bets   Avg Confidence: 77.3%
+🇪🇸 La Liga               10 bets   Avg Confidence: 81.0%
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League         9 bets   Avg Confidence: 82.2%
+🇷🇴 Romania Liga 1         9 bets   Avg Confidence: 83.1%
+🇮🇹 Serie A               11 bets   Avg Confidence: 90.8%
+
+🎯 PATTERN SUMMARY
+------------------------------------------------------------------------------------------------------------------------
+  away_over_0_5_cards                       30 bets
+  home_over_0_5_cards                        7 bets
+  total_under_5_5_goals                      5 bets
+  home_over_2_5_corners                      3 bets
+  total_over_1_5_cards                       2 bets
+  total_over_1_5_goals                       1 bets
+
+====================================================================================================================================================================================
+🌟 HIGH-CONFIDENCE PREDICTIONS (R-Adj ≥ 83-84%) - FILTERED TABLE
+====================================================================================================================================================================================
+📊 Filtered Bets: 15 of 48 total (31.2%)
+📈 Completed: 15 | Pending: 0
+🎯 Results: 12 WIN (80.0%) | 3 LOSS (20.0%)
+
+#    Date         Time   League             Home Team                 Away Team                 Pattern                   Conf    R-Adj   Status     Result 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1    2025-01-27   15:00  🇷🇴 Romania Liga 1  Petrolul 52               Botoşani                  away_over_0_5_cards       91.5%   89.5%   COMPLETE   LOSS   
+2    2025-01-27   17:30  🇮🇹 Serie A         Venezia                   Hellas Verona             away_over_0_5_cards       90.9%   88.9%   COMPLETE   WIN    
+3    2025-01-27   18:00  🇷🇴 Romania Liga 1  CFR Cluj                  SSC Farul                 home_over_0_5_cards       88.4%   86.4%   COMPLETE   LOSS   
+4    2025-01-27   19:45  🇮🇹 Serie A         Genoa                     Monza                     away_over_0_5_cards       91.2%   89.2%   COMPLETE   WIN    
+5    2025-01-31   19:45  🇮🇹 Serie A         Parma                     Lecce                     away_over_0_5_cards       91.8%   89.8%   COMPLETE   WIN    
+6    2025-02-01   12:30  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Nottingham Forest         Brighton & Hove Albion    total_under_5_5_goals     89.2%   84.2%   COMPLETE   LOSS   
+7    2025-02-01   14:00  🇮🇹 Serie A         Monza                     Hellas Verona             away_over_0_5_cards       91.9%   89.9%   COMPLETE   WIN    
+8    2025-02-01   14:00  🇮🇹 Serie A         Udinese                   Venezia                   away_over_0_5_cards       91.9%   89.9%   COMPLETE   WIN    
+9    2025-02-01   15:00  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Ipswich Town              Southampton               away_over_0_5_cards       85.6%   83.6%   COMPLETE   WIN    
+10   2025-02-01   17:00  🇮🇹 Serie A         Atalanta                  Torino                    away_over_0_5_cards       92.2%   90.2%   COMPLETE   WIN    
+11   2025-02-01   19:45  🇮🇹 Serie A         Bologna                   Como                      away_over_0_5_cards       92.2%   90.2%   COMPLETE   WIN    
+12   2025-02-02   11:30  🇮🇹 Serie A         Juventus                  Empoli                    away_over_0_5_cards       94.6%   92.6%   COMPLETE   WIN    
+13   2025-02-02   14:00  🇮🇹 Serie A         Fiorentina                Genoa                     away_over_0_5_cards       94.7%   92.7%   COMPLETE   WIN    
+14   2025-02-02   17:00  🇮🇹 Serie A         AC Milan                  Inter Milan               away_over_0_5_cards       94.7%   92.7%   COMPLETE   WIN    
+15   2025-02-02   19:45  🇮🇹 Serie A         Roma                      Napoli                    away_over_0_5_cards       94.9%   92.9%   COMPLETE   WIN    
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Filtered Total: 15 bets (≥85% confidence)
+====================================================================================================================================================================================
+
+
+====================================================================================================================================================================================
+📅 ALL PREDICTIONS TABLE - COMPLETE TRACKING SHEET
+====================================================================================================================================================================================
+
+#    Date         Time   League             Home Team                 Away Team                 Pattern                   Conf    R-Adj   Status     Result 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1    2025-01-27   15:00  🇷🇴 Romania Liga 1  Petrolul 52               Botoşani                  away_over_0_5_cards       91.5%   89.5%   COMPLETE   LOSS   
+2    2025-01-27   17:30  🇮🇹 Serie A         Venezia                   Hellas Verona             away_over_0_5_cards       90.9%   88.9%   COMPLETE   WIN    
+3    2025-01-27   18:00  🇷🇴 Romania Liga 1  CFR Cluj                  SSC Farul                 home_over_0_5_cards       88.4%   86.4%   COMPLETE   LOSS   
+4    2025-01-27   19:45  🇮🇹 Serie A         Genoa                     Monza                     away_over_0_5_cards       91.2%   89.2%   COMPLETE   WIN    
+5    2025-01-27   20:00  🇪🇸 La Liga         Deportivo Alavés          Celta de Vigo             total_under_5_5_goals     84.7%   79.7%   COMPLETE   WIN    
+6    2025-01-31   15:00  🇷🇴 Romania Liga 1  Hermannstadt              UTA Arad                  home_over_2_5_corners     88.5%   86.5%   COMPLETE   LOSS   
+7    2025-01-31   18:00  🇷🇴 Romania Liga 1  Unirea Slobozia           Dinamo Bucureşti          home_over_2_5_corners     84.5%   82.5%   COMPLETE   LOSS   
+8    2025-01-31   19:30  🇩🇪 Bundesliga      Werder Bremen             Mainz 05                  total_over_1_5_goals      81.5%   77.5%   COMPLETE   LOSS   
+9    2025-01-31   19:45  🇮🇹 Serie A         Parma                     Lecce                     away_over_0_5_cards       91.8%   89.8%   COMPLETE   WIN    
+10   2025-01-31   20:00  🇪🇸 La Liga         Leganés                   Rayo Vallecano            home_over_0_5_cards       83.5%   81.5%   COMPLETE   WIN    
+11   2025-02-01   12:30  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Nottingham Forest         Brighton & Hove Albion    total_under_5_5_goals     89.2%   84.2%   COMPLETE   LOSS   
+12   2025-02-01   12:30  🇷🇴 Romania Liga 1  Botoşani                  Sepsi                     away_over_0_5_cards       82.2%   80.2%   COMPLETE   WIN    
+13   2025-02-01   13:00  🇪🇸 La Liga         Getafe CF                 Sevilla FC                total_under_5_5_goals     84.8%   79.8%   COMPLETE   WIN    
+14   2025-02-01   14:00  🇮🇹 Serie A         Monza                     Hellas Verona             away_over_0_5_cards       91.9%   89.9%   COMPLETE   WIN    
+15   2025-02-01   14:00  🇮🇹 Serie A         Udinese                   Venezia                   away_over_0_5_cards       91.9%   89.9%   COMPLETE   WIN    
+16   2025-02-01   14:30  🇩🇪 Bundesliga      St. Pauli                 Augsburg                  home_over_0_5_cards       77.8%   75.8%   COMPLETE   WIN    
+17   2025-02-01   14:30  🇩🇪 Bundesliga      Heidenheim                Borussia Dortmund         home_over_0_5_cards       77.8%   75.8%   COMPLETE   WIN    
+18   2025-02-01   14:30  🇩🇪 Bundesliga      Bochum                    Freiburg                  total_under_5_5_goals     80.7%   75.7%   COMPLETE   WIN    
+19   2025-02-01   14:30  🇩🇪 Bundesliga      Stuttgart                 Borussia M'gladbach       home_over_0_5_cards       77.8%   75.8%   COMPLETE   WIN    
+20   2025-02-01   14:30  🇩🇪 Bundesliga      Bayern München            Holstein Kiel             total_under_5_5_goals     81.5%   76.5%   COMPLETE   LOSS   
+21   2025-02-01   15:00  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League AFC Bournemouth           Liverpool                 away_over_0_5_cards       84.6%   82.6%   COMPLETE   WIN    
+22   2025-02-01   15:00  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Everton                   Leicester City            away_over_0_5_cards       83.7%   81.7%   COMPLETE   LOSS   
+23   2025-02-01   15:00  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Newcastle United          Fulham                    away_over_0_5_cards       83.7%   81.7%   COMPLETE   WIN    
+24   2025-02-01   15:00  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Ipswich Town              Southampton               away_over_0_5_cards       85.6%   83.6%   COMPLETE   WIN    
+25   2025-02-01   15:00  🇷🇴 Romania Liga 1  Oţelul Galaţi             SCM Gloria Buzău          away_over_0_5_cards       82.4%   80.4%   COMPLETE   WIN    
+26   2025-02-01   15:15  🇪🇸 La Liga         Villarreal                Real Valladolid           away_over_0_5_cards       84.4%   82.4%   COMPLETE   WIN    
+27   2025-02-01   17:00  🇮🇹 Serie A         Atalanta                  Torino                    away_over_0_5_cards       92.2%   90.2%   COMPLETE   WIN    
+28   2025-02-01   17:30  🇩🇪 Bundesliga      Union Berlin              RB Leipzig                total_over_1_5_cards      84.2%   79.2%   COMPLETE   WIN    
+29   2025-02-01   17:30  🇪🇸 La Liga         Atlético Madrid           RCD Mallorca              home_over_0_5_cards       82.0%   80.0%   COMPLETE   WIN    
+30   2025-02-01   17:30  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Wolverhampton Wanderers   Aston Villa               away_over_0_5_cards       83.3%   81.3%   COMPLETE   WIN    
+31   2025-02-01   18:00  🇷🇴 Romania Liga 1  Universitatea Cluj        Rapid Bucureşti           away_over_0_5_cards       83.0%   81.0%   COMPLETE   WIN    
+32   2025-02-01   19:45  🇮🇹 Serie A         Bologna                   Como                      away_over_0_5_cards       92.2%   90.2%   COMPLETE   WIN    
+33   2025-02-01   20:00  🇪🇸 La Liga         RCD Espanyol              Real Madrid               home_over_0_5_cards       82.1%   80.1%   COMPLETE   WIN    
+34   2025-02-02   11:30  🇮🇹 Serie A         Juventus                  Empoli                    away_over_0_5_cards       94.6%   92.6%   COMPLETE   WIN    
+35   2025-02-02   13:00  🇪🇸 La Liga         FC Barcelona              Deportivo Alavés          away_over_0_5_cards       82.5%   80.5%   COMPLETE   WIN    
+36   2025-02-02   14:00  🇮🇹 Serie A         Fiorentina                Genoa                     away_over_0_5_cards       94.7%   92.7%   COMPLETE   WIN    
+37   2025-02-02   14:00  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Manchester United         Crystal Palace            away_over_0_5_cards       84.3%   82.3%   COMPLETE   WIN    
+38   2025-02-02   14:00  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Brentford                 Tottenham Hotspur         away_over_0_5_cards       83.4%   81.4%   COMPLETE   WIN    
+39   2025-02-02   14:30  🇩🇪 Bundesliga      Eintracht Frankfurt       Wolfsburg                 total_over_1_5_cards      84.3%   79.3%   COMPLETE   WIN    
+40   2025-02-02   15:15  🇪🇸 La Liga         Valencia CF               Celta de Vigo             away_over_0_5_cards       83.9%   81.9%   COMPLETE   WIN    
+41   2025-02-02   15:15  🇷🇴 Romania Liga 1  CS U Craiova              CSM Iaşi                  home_over_2_5_corners     81.9%   79.9%   COMPLETE   WIN    
+42   2025-02-02   16:30  🇩🇪 Bundesliga      Bayer Leverkusen          Hoffenheim                away_over_0_5_cards       82.0%   80.0%   COMPLETE   WIN    
+43   2025-02-02   16:30  🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League Arsenal                   Manchester City           away_over_0_5_cards       83.3%   81.3%   COMPLETE   LOSS   
+44   2025-02-02   17:00  🇮🇹 Serie A         AC Milan                  Inter Milan               away_over_0_5_cards       94.7%   92.7%   COMPLETE   WIN    
+45   2025-02-02   17:30  🇪🇸 La Liga         CA Osasuna                Real Sociedad             away_over_0_5_cards       83.9%   81.9%   COMPLETE   WIN    
+46   2025-02-02   18:00  🇷🇴 Romania Liga 1  FCSB                      CFR Cluj                  away_over_0_5_cards       83.5%   81.5%   COMPLETE   WIN    
+47   2025-02-02   19:45  🇮🇹 Serie A         Roma                      Napoli                    away_over_0_5_cards       94.9%   92.9%   COMPLETE   WIN    
+48   2025-02-02   20:00  🇪🇸 La Liga         Real Betis                Athletic Club Bilbao      away_over_0_5_cards       84.0%   82.0%   COMPLETE   WIN    
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Total: 48 bets
+====================================================================================================================================================================================
+
+
+====================================================================================================================================================================================
+📊 DETAILED PREDICTIONS BY DATE
+====================================================================================================================================================================================
+
+📅 Monday, 2025-01-27 (5 bets)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. 🇷🇴 Romania Liga 1       | 15:00 | Petrolul 52 vs Botoşani
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 91.5% → Risk-Adj: 89.5%
+   🚧 Threshold: 55.0% | Margin: +34.5%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+2. 🇮🇹 Serie A              | 17:30 | Venezia vs Hellas Verona
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 90.9% → Risk-Adj: 88.9%
+   🚧 Threshold: 55.0% | Margin: +33.9%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+3. 🇷🇴 Romania Liga 1       | 18:00 | CFR Cluj vs SSC Farul
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 88.4% → Risk-Adj: 86.4%
+   🚧 Threshold: 55.0% | Margin: +31.4%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+4. 🇮🇹 Serie A              | 19:45 | Genoa vs Monza
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 91.2% → Risk-Adj: 89.2%
+   🚧 Threshold: 55.0% | Margin: +34.2%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+5. 🇪🇸 La Liga              | 20:00 | Deportivo Alavés vs Celta de Vigo
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 84.7% → Risk-Adj: 79.7%
+   🚧 Threshold: 60.0% | Margin: +19.7%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+
+📅 Friday, 2025-01-31 (5 bets)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6. 🇷🇴 Romania Liga 1       | 15:00 | Hermannstadt vs UTA Arad
+   🎯 Pattern: home_over_2_5_corners
+   📊 Confidence: 88.5% → Risk-Adj: 86.5%
+   🚧 Threshold: 65.0% | Margin: +21.5%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+7. 🇷🇴 Romania Liga 1       | 18:00 | Unirea Slobozia vs Dinamo Bucureşti
+   🎯 Pattern: home_over_2_5_corners
+   📊 Confidence: 84.5% → Risk-Adj: 82.5%
+   🚧 Threshold: 65.0% | Margin: +17.5%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+8. 🇩🇪 Bundesliga           | 19:30 | Werder Bremen vs Mainz 05
+   🎯 Pattern: total_over_1_5_goals
+   📊 Confidence: 81.5% → Risk-Adj: 77.5%
+   🚧 Threshold: 60.0% | Margin: +17.5%
+   📈 League Backtest: 52.6% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+9. 🇮🇹 Serie A              | 19:45 | Parma vs Lecce
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 91.8% → Risk-Adj: 89.8%
+   🚧 Threshold: 55.0% | Margin: +34.8%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+10. 🇪🇸 La Liga              | 20:00 | Leganés vs Rayo Vallecano
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 83.5% → Risk-Adj: 81.5%
+   🚧 Threshold: 60.0% | Margin: +21.5%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+
+📅 Saturday, 2025-02-01 (23 bets)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League       | 12:30 | Nottingham Forest vs Brighton & Hove Albion
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 89.2% → Risk-Adj: 84.2%
+   🚧 Threshold: 65.0% | Margin: +19.2%
+   📈 League Backtest: 72.1% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+12. 🇷🇴 Romania Liga 1       | 12:30 | Botoşani vs Sepsi
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 82.2% → Risk-Adj: 80.2%
+   🚧 Threshold: 55.0% | Margin: +25.2%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+13. 🇪🇸 La Liga              | 13:00 | Getafe CF vs Sevilla FC
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 84.8% → Risk-Adj: 79.8%
+   🚧 Threshold: 60.0% | Margin: +19.8%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+14. 🇮🇹 Serie A              | 14:00 | Monza vs Hellas Verona
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 91.9% → Risk-Adj: 89.9%
+   🚧 Threshold: 55.0% | Margin: +34.9%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+15. 🇮🇹 Serie A              | 14:00 | Udinese vs Venezia
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 91.9% → Risk-Adj: 89.9%
+   🚧 Threshold: 55.0% | Margin: +34.9%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+16. 🇩🇪 Bundesliga           | 14:30 | St. Pauli vs Augsburg
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 77.8% → Risk-Adj: 75.8%
+   🚧 Threshold: 55.0% | Margin: +20.8%
+   📈 League Backtest: 52.6% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+17. 🇩🇪 Bundesliga           | 14:30 | Heidenheim vs Borussia Dortmund
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 77.8% → Risk-Adj: 75.8%
+   🚧 Threshold: 55.0% | Margin: +20.8%
+   📈 League Backtest: 52.6% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+18. 🇩🇪 Bundesliga           | 14:30 | Bochum vs Freiburg
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 80.7% → Risk-Adj: 75.7%
+   🚧 Threshold: 60.0% | Margin: +15.7%
+   📈 League Backtest: 52.6% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+19. 🇩🇪 Bundesliga           | 14:30 | Stuttgart vs Borussia M'gladbach
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 77.8% → Risk-Adj: 75.8%
+   🚧 Threshold: 55.0% | Margin: +20.8%
+   📈 League Backtest: 52.6% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+20. 🇩🇪 Bundesliga           | 14:30 | Bayern München vs Holstein Kiel
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 81.5% → Risk-Adj: 76.5%
+   🚧 Threshold: 60.0% | Margin: +16.5%
+   📈 League Backtest: 52.6% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+21. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League       | 15:00 | AFC Bournemouth vs Liverpool
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 84.6% → Risk-Adj: 82.6%
+   🚧 Threshold: 60.0% | Margin: +22.6%
+   📈 League Backtest: 72.1% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+22. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League       | 15:00 | Everton vs Leicester City
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 83.7% → Risk-Adj: 81.7%
+   🚧 Threshold: 60.0% | Margin: +21.7%
+   📈 League Backtest: 72.1% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+23. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League       | 15:00 | Newcastle United vs Fulham
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 83.7% → Risk-Adj: 81.7%
+   🚧 Threshold: 60.0% | Margin: +21.7%
+   📈 League Backtest: 72.1% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+24. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League       | 15:00 | Ipswich Town vs Southampton
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 85.6% → Risk-Adj: 83.6%
+   🚧 Threshold: 60.0% | Margin: +23.6%
+   📈 League Backtest: 72.1% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+25. 🇷🇴 Romania Liga 1       | 15:00 | Oţelul Galaţi vs SCM Gloria Buzău
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 82.4% → Risk-Adj: 80.4%
+   🚧 Threshold: 55.0% | Margin: +25.4%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+26. 🇪🇸 La Liga              | 15:15 | Villarreal vs Real Valladolid
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 84.4% → Risk-Adj: 82.4%
+   🚧 Threshold: 60.0% | Margin: +22.4%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+27. 🇮🇹 Serie A              | 17:00 | Atalanta vs Torino
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 92.2% → Risk-Adj: 90.2%
+   🚧 Threshold: 55.0% | Margin: +35.2%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+28. 🇩🇪 Bundesliga           | 17:30 | Union Berlin vs RB Leipzig
+   🎯 Pattern: total_over_1_5_cards
+   📊 Confidence: 84.2% → Risk-Adj: 79.2%
+   🚧 Threshold: 60.0% | Margin: +19.2%
+   📈 League Backtest: 52.6% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+29. 🇪🇸 La Liga              | 17:30 | Atlético Madrid vs RCD Mallorca
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 82.0% → Risk-Adj: 80.0%
+   🚧 Threshold: 60.0% | Margin: +20.0%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+30. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League       | 17:30 | Wolverhampton Wanderers vs Aston Villa
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 83.3% → Risk-Adj: 81.3%
+   🚧 Threshold: 60.0% | Margin: +21.3%
+   📈 League Backtest: 72.1% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+31. 🇷🇴 Romania Liga 1       | 18:00 | Universitatea Cluj vs Rapid Bucureşti
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 83.0% → Risk-Adj: 81.0%
+   🚧 Threshold: 55.0% | Margin: +26.0%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+32. 🇮🇹 Serie A              | 19:45 | Bologna vs Como
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 92.2% → Risk-Adj: 90.2%
+   🚧 Threshold: 55.0% | Margin: +35.2%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+33. 🇪🇸 La Liga              | 20:00 | RCD Espanyol vs Real Madrid
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 82.1% → Risk-Adj: 80.1%
+   🚧 Threshold: 60.0% | Margin: +20.1%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+
+📅 Sunday, 2025-02-02 (15 bets)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+34. 🇮🇹 Serie A              | 11:30 | Juventus vs Empoli
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 94.6% → Risk-Adj: 92.6%
+   🚧 Threshold: 55.0% | Margin: +37.6%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+35. 🇪🇸 La Liga              | 13:00 | FC Barcelona vs Deportivo Alavés
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 82.5% → Risk-Adj: 80.5%
+   🚧 Threshold: 60.0% | Margin: +20.5%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+36. 🇮🇹 Serie A              | 14:00 | Fiorentina vs Genoa
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 94.7% → Risk-Adj: 92.7%
+   🚧 Threshold: 55.0% | Margin: +37.7%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+37. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League       | 14:00 | Manchester United vs Crystal Palace
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 84.3% → Risk-Adj: 82.3%
+   🚧 Threshold: 60.0% | Margin: +22.3%
+   📈 League Backtest: 72.1% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+38. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League       | 14:00 | Brentford vs Tottenham Hotspur
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 83.4% → Risk-Adj: 81.4%
+   🚧 Threshold: 60.0% | Margin: +21.4%
+   📈 League Backtest: 72.1% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+39. 🇩🇪 Bundesliga           | 14:30 | Eintracht Frankfurt vs Wolfsburg
+   🎯 Pattern: total_over_1_5_cards
+   📊 Confidence: 84.3% → Risk-Adj: 79.3%
+   🚧 Threshold: 60.0% | Margin: +19.3%
+   📈 League Backtest: 52.6% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+40. 🇪🇸 La Liga              | 15:15 | Valencia CF vs Celta de Vigo
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 83.9% → Risk-Adj: 81.9%
+   🚧 Threshold: 60.0% | Margin: +21.9%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+41. 🇷🇴 Romania Liga 1       | 15:15 | CS U Craiova vs CSM Iaşi
+   🎯 Pattern: home_over_2_5_corners
+   📊 Confidence: 81.9% → Risk-Adj: 79.9%
+   🚧 Threshold: 65.0% | Margin: +14.9%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+42. 🇩🇪 Bundesliga           | 16:30 | Bayer Leverkusen vs Hoffenheim
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 82.0% → Risk-Adj: 80.0%
+   🚧 Threshold: 55.0% | Margin: +25.0%
+   📈 League Backtest: 52.6% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+43. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League       | 16:30 | Arsenal vs Manchester City
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 83.3% → Risk-Adj: 81.3%
+   🚧 Threshold: 60.0% | Margin: +21.3%
+   📈 League Backtest: 72.1% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+44. 🇮🇹 Serie A              | 17:00 | AC Milan vs Inter Milan
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 94.7% → Risk-Adj: 92.7%
+   🚧 Threshold: 55.0% | Margin: +37.7%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+45. 🇪🇸 La Liga              | 17:30 | CA Osasuna vs Real Sociedad
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 83.9% → Risk-Adj: 81.9%
+   🚧 Threshold: 60.0% | Margin: +21.9%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+46. 🇷🇴 Romania Liga 1       | 18:00 | FCSB vs CFR Cluj
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 83.5% → Risk-Adj: 81.5%
+   🚧 Threshold: 55.0% | Margin: +26.5%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+47. 🇮🇹 Serie A              | 19:45 | Roma vs Napoli
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 94.9% → Risk-Adj: 92.9%
+   🚧 Threshold: 55.0% | Margin: +37.9%
+   📈 League Backtest: 64.2% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+48. 🇪🇸 La Liga              | 20:00 | Real Betis vs Athletic Club Bilbao
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 84.0% → Risk-Adj: 82.0%
+   🚧 Threshold: 60.0% | Margin: +22.0%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+
+========================================================================================================================
+📝 TRACKING INSTRUCTIONS
+========================================================================================================================
+1. After each match completes, fill in:
+   - Result: COMPLETE
+   - Actual_outcome: e.g., 'Away team got 2 cards' or 'Home won 2-1'
+   - Won: YES or NO
+
+2. Calculate final statistics:
+   - Count total WON bets
+   - Win Rate = WON / TOTAL
+   - Compare to backtest win rates
+
+3. Stop conditions:
+   - After 3 consecutive losses
+   - If win rate drops 10%+ below backtest
+   - After 50% of bankroll loss
+
+========================================================================================================================
+
+⚠️  CRITICAL WARNINGS
+========================================================================================================================
+• NO FORWARD VALIDATION - These predictions are based on BACKTESTING ONLY
+• PAPER TRADE FIRST - Strongly recommended before risking real money
+• CORRELATION RISK - Same patterns across multiple leagues = correlated failure risk
+• STAKE SIZE - Never exceed 1-2% of bankroll per bet
+• DIVERSIFICATION - Don't bet on all predictions, pick 3-5 highest confidence
+• TRACK EVERYTHING - Essential for validating system performance
+========================================================================================================================
+
+
+========================================================================================================================
+📦 JSON DATA (for programmatic tracking)
+========================================================================================================================
+{
+  "generated_at": "2025-11-18T10:08:28.812802",
+  "date_range": {
+    "start": "2025-01-27",
+    "end": "2025-02-02"
+  },
+  "total_predictions": 48,
+  "predictions": [
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-01-27 15:00",
+      "day_of_week": "Monday",
+      "home": "Petrolul 52",
+      "away": "Botoşani",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "91.5%",
+      "risk_adjusted": "89.5%",
+      "threshold": "55.0%",
+      "margin": "+34.5%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-01-27 17:30",
+      "day_of_week": "Monday",
+      "home": "Venezia",
+      "away": "Hellas Verona",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "90.9%",
+      "risk_adjusted": "88.9%",
+      "threshold": "55.0%",
+      "margin": "+33.9%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-01-27 18:00",
+      "day_of_week": "Monday",
+      "home": "CFR Cluj",
+      "away": "SSC Farul",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "88.4%",
+      "risk_adjusted": "86.4%",
+      "threshold": "55.0%",
+      "margin": "+31.4%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-01-27 19:45",
+      "day_of_week": "Monday",
+      "home": "Genoa",
+      "away": "Monza",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "91.2%",
+      "risk_adjusted": "89.2%",
+      "threshold": "55.0%",
+      "margin": "+34.2%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-01-27 20:00",
+      "day_of_week": "Monday",
+      "home": "Deportivo Alavés",
+      "away": "Celta de Vigo",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "84.7%",
+      "risk_adjusted": "79.7%",
+      "threshold": "60.0%",
+      "margin": "+19.7%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-01-31 15:00",
+      "day_of_week": "Friday",
+      "home": "Hermannstadt",
+      "away": "UTA Arad",
+      "pattern": "home_over_2_5_corners",
+      "confidence": "88.5%",
+      "risk_adjusted": "86.5%",
+      "threshold": "65.0%",
+      "margin": "+21.5%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-01-31 18:00",
+      "day_of_week": "Friday",
+      "home": "Unirea Slobozia",
+      "away": "Dinamo Bucureşti",
+      "pattern": "home_over_2_5_corners",
+      "confidence": "84.5%",
+      "risk_adjusted": "82.5%",
+      "threshold": "65.0%",
+      "margin": "+17.5%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "Bundesliga",
+      "league_emoji": "🇩🇪",
+      "date": "2025-01-31 19:30",
+      "day_of_week": "Friday",
+      "home": "Werder Bremen",
+      "away": "Mainz 05",
+      "pattern": "total_over_1_5_goals",
+      "confidence": "81.5%",
+      "risk_adjusted": "77.5%",
+      "threshold": "60.0%",
+      "margin": "+17.5%",
+      "backtest_wr": "52.6%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-01-31 19:45",
+      "day_of_week": "Friday",
+      "home": "Parma",
+      "away": "Lecce",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "91.8%",
+      "risk_adjusted": "89.8%",
+      "threshold": "55.0%",
+      "margin": "+34.8%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-01-31 20:00",
+      "day_of_week": "Friday",
+      "home": "Leganés",
+      "away": "Rayo Vallecano",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "83.5%",
+      "risk_adjusted": "81.5%",
+      "threshold": "60.0%",
+      "margin": "+21.5%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Premier League",
+      "league_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "date": "2025-02-01 12:30",
+      "day_of_week": "Saturday",
+      "home": "Nottingham Forest",
+      "away": "Brighton & Hove Albion",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "89.2%",
+      "risk_adjusted": "84.2%",
+      "threshold": "65.0%",
+      "margin": "+19.2%",
+      "backtest_wr": "72.1%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-02-01 12:30",
+      "day_of_week": "Saturday",
+      "home": "Botoşani",
+      "away": "Sepsi",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "82.2%",
+      "risk_adjusted": "80.2%",
+      "threshold": "55.0%",
+      "margin": "+25.2%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-02-01 13:00",
+      "day_of_week": "Saturday",
+      "home": "Getafe CF",
+      "away": "Sevilla FC",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "84.8%",
+      "risk_adjusted": "79.8%",
+      "threshold": "60.0%",
+      "margin": "+19.8%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-02-01 14:00",
+      "day_of_week": "Saturday",
+      "home": "Monza",
+      "away": "Hellas Verona",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "91.9%",
+      "risk_adjusted": "89.9%",
+      "threshold": "55.0%",
+      "margin": "+34.9%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-02-01 14:00",
+      "day_of_week": "Saturday",
+      "home": "Udinese",
+      "away": "Venezia",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "91.9%",
+      "risk_adjusted": "89.9%",
+      "threshold": "55.0%",
+      "margin": "+34.9%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Bundesliga",
+      "league_emoji": "🇩🇪",
+      "date": "2025-02-01 14:30",
+      "day_of_week": "Saturday",
+      "home": "St. Pauli",
+      "away": "Augsburg",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "77.8%",
+      "risk_adjusted": "75.8%",
+      "threshold": "55.0%",
+      "margin": "+20.8%",
+      "backtest_wr": "52.6%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Bundesliga",
+      "league_emoji": "🇩🇪",
+      "date": "2025-02-01 14:30",
+      "day_of_week": "Saturday",
+      "home": "Heidenheim",
+      "away": "Borussia Dortmund",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "77.8%",
+      "risk_adjusted": "75.8%",
+      "threshold": "55.0%",
+      "margin": "+20.8%",
+      "backtest_wr": "52.6%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Bundesliga",
+      "league_emoji": "🇩🇪",
+      "date": "2025-02-01 14:30",
+      "day_of_week": "Saturday",
+      "home": "Bochum",
+      "away": "Freiburg",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "80.7%",
+      "risk_adjusted": "75.7%",
+      "threshold": "60.0%",
+      "margin": "+15.7%",
+      "backtest_wr": "52.6%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Bundesliga",
+      "league_emoji": "🇩🇪",
+      "date": "2025-02-01 14:30",
+      "day_of_week": "Saturday",
+      "home": "Stuttgart",
+      "away": "Borussia M'gladbach",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "77.8%",
+      "risk_adjusted": "75.8%",
+      "threshold": "55.0%",
+      "margin": "+20.8%",
+      "backtest_wr": "52.6%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Bundesliga",
+      "league_emoji": "🇩🇪",
+      "date": "2025-02-01 14:30",
+      "day_of_week": "Saturday",
+      "home": "Bayern München",
+      "away": "Holstein Kiel",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "81.5%",
+      "risk_adjusted": "76.5%",
+      "threshold": "60.0%",
+      "margin": "+16.5%",
+      "backtest_wr": "52.6%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "Premier League",
+      "league_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "date": "2025-02-01 15:00",
+      "day_of_week": "Saturday",
+      "home": "AFC Bournemouth",
+      "away": "Liverpool",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "84.6%",
+      "risk_adjusted": "82.6%",
+      "threshold": "60.0%",
+      "margin": "+22.6%",
+      "backtest_wr": "72.1%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Premier League",
+      "league_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "date": "2025-02-01 15:00",
+      "day_of_week": "Saturday",
+      "home": "Everton",
+      "away": "Leicester City",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "83.7%",
+      "risk_adjusted": "81.7%",
+      "threshold": "60.0%",
+      "margin": "+21.7%",
+      "backtest_wr": "72.1%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "Premier League",
+      "league_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "date": "2025-02-01 15:00",
+      "day_of_week": "Saturday",
+      "home": "Newcastle United",
+      "away": "Fulham",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "83.7%",
+      "risk_adjusted": "81.7%",
+      "threshold": "60.0%",
+      "margin": "+21.7%",
+      "backtest_wr": "72.1%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Premier League",
+      "league_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "date": "2025-02-01 15:00",
+      "day_of_week": "Saturday",
+      "home": "Ipswich Town",
+      "away": "Southampton",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "85.6%",
+      "risk_adjusted": "83.6%",
+      "threshold": "60.0%",
+      "margin": "+23.6%",
+      "backtest_wr": "72.1%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-02-01 15:00",
+      "day_of_week": "Saturday",
+      "home": "Oţelul Galaţi",
+      "away": "SCM Gloria Buzău",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "82.4%",
+      "risk_adjusted": "80.4%",
+      "threshold": "55.0%",
+      "margin": "+25.4%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-02-01 15:15",
+      "day_of_week": "Saturday",
+      "home": "Villarreal",
+      "away": "Real Valladolid",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "84.4%",
+      "risk_adjusted": "82.4%",
+      "threshold": "60.0%",
+      "margin": "+22.4%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-02-01 17:00",
+      "day_of_week": "Saturday",
+      "home": "Atalanta",
+      "away": "Torino",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "92.2%",
+      "risk_adjusted": "90.2%",
+      "threshold": "55.0%",
+      "margin": "+35.2%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Bundesliga",
+      "league_emoji": "🇩🇪",
+      "date": "2025-02-01 17:30",
+      "day_of_week": "Saturday",
+      "home": "Union Berlin",
+      "away": "RB Leipzig",
+      "pattern": "total_over_1_5_cards",
+      "confidence": "84.2%",
+      "risk_adjusted": "79.2%",
+      "threshold": "60.0%",
+      "margin": "+19.2%",
+      "backtest_wr": "52.6%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-02-01 17:30",
+      "day_of_week": "Saturday",
+      "home": "Atlético Madrid",
+      "away": "RCD Mallorca",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "82.0%",
+      "risk_adjusted": "80.0%",
+      "threshold": "60.0%",
+      "margin": "+20.0%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Premier League",
+      "league_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "date": "2025-02-01 17:30",
+      "day_of_week": "Saturday",
+      "home": "Wolverhampton Wanderers",
+      "away": "Aston Villa",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "83.3%",
+      "risk_adjusted": "81.3%",
+      "threshold": "60.0%",
+      "margin": "+21.3%",
+      "backtest_wr": "72.1%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-02-01 18:00",
+      "day_of_week": "Saturday",
+      "home": "Universitatea Cluj",
+      "away": "Rapid Bucureşti",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "83.0%",
+      "risk_adjusted": "81.0%",
+      "threshold": "55.0%",
+      "margin": "+26.0%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-02-01 19:45",
+      "day_of_week": "Saturday",
+      "home": "Bologna",
+      "away": "Como",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "92.2%",
+      "risk_adjusted": "90.2%",
+      "threshold": "55.0%",
+      "margin": "+35.2%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-02-01 20:00",
+      "day_of_week": "Saturday",
+      "home": "RCD Espanyol",
+      "away": "Real Madrid",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "82.1%",
+      "risk_adjusted": "80.1%",
+      "threshold": "60.0%",
+      "margin": "+20.1%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-02-02 11:30",
+      "day_of_week": "Sunday",
+      "home": "Juventus",
+      "away": "Empoli",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "94.6%",
+      "risk_adjusted": "92.6%",
+      "threshold": "55.0%",
+      "margin": "+37.6%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-02-02 13:00",
+      "day_of_week": "Sunday",
+      "home": "FC Barcelona",
+      "away": "Deportivo Alavés",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "82.5%",
+      "risk_adjusted": "80.5%",
+      "threshold": "60.0%",
+      "margin": "+20.5%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-02-02 14:00",
+      "day_of_week": "Sunday",
+      "home": "Fiorentina",
+      "away": "Genoa",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "94.7%",
+      "risk_adjusted": "92.7%",
+      "threshold": "55.0%",
+      "margin": "+37.7%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Premier League",
+      "league_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "date": "2025-02-02 14:00",
+      "day_of_week": "Sunday",
+      "home": "Manchester United",
+      "away": "Crystal Palace",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "84.3%",
+      "risk_adjusted": "82.3%",
+      "threshold": "60.0%",
+      "margin": "+22.3%",
+      "backtest_wr": "72.1%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Premier League",
+      "league_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "date": "2025-02-02 14:00",
+      "day_of_week": "Sunday",
+      "home": "Brentford",
+      "away": "Tottenham Hotspur",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "83.4%",
+      "risk_adjusted": "81.4%",
+      "threshold": "60.0%",
+      "margin": "+21.4%",
+      "backtest_wr": "72.1%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Bundesliga",
+      "league_emoji": "🇩🇪",
+      "date": "2025-02-02 14:30",
+      "day_of_week": "Sunday",
+      "home": "Eintracht Frankfurt",
+      "away": "Wolfsburg",
+      "pattern": "total_over_1_5_cards",
+      "confidence": "84.3%",
+      "risk_adjusted": "79.3%",
+      "threshold": "60.0%",
+      "margin": "+19.3%",
+      "backtest_wr": "52.6%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-02-02 15:15",
+      "day_of_week": "Sunday",
+      "home": "Valencia CF",
+      "away": "Celta de Vigo",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "83.9%",
+      "risk_adjusted": "81.9%",
+      "threshold": "60.0%",
+      "margin": "+21.9%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-02-02 15:15",
+      "day_of_week": "Sunday",
+      "home": "CS U Craiova",
+      "away": "CSM Iaşi",
+      "pattern": "home_over_2_5_corners",
+      "confidence": "81.9%",
+      "risk_adjusted": "79.9%",
+      "threshold": "65.0%",
+      "margin": "+14.9%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Bundesliga",
+      "league_emoji": "🇩🇪",
+      "date": "2025-02-02 16:30",
+      "day_of_week": "Sunday",
+      "home": "Bayer Leverkusen",
+      "away": "Hoffenheim",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "82.0%",
+      "risk_adjusted": "80.0%",
+      "threshold": "55.0%",
+      "margin": "+25.0%",
+      "backtest_wr": "52.6%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Premier League",
+      "league_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "date": "2025-02-02 16:30",
+      "day_of_week": "Sunday",
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "83.3%",
+      "risk_adjusted": "81.3%",
+      "threshold": "60.0%",
+      "margin": "+21.3%",
+      "backtest_wr": "72.1%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-02-02 17:00",
+      "day_of_week": "Sunday",
+      "home": "AC Milan",
+      "away": "Inter Milan",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "94.7%",
+      "risk_adjusted": "92.7%",
+      "threshold": "55.0%",
+      "margin": "+37.7%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-02-02 17:30",
+      "day_of_week": "Sunday",
+      "home": "CA Osasuna",
+      "away": "Real Sociedad",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "83.9%",
+      "risk_adjusted": "81.9%",
+      "threshold": "60.0%",
+      "margin": "+21.9%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-02-02 18:00",
+      "day_of_week": "Sunday",
+      "home": "FCSB",
+      "away": "CFR Cluj",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "83.5%",
+      "risk_adjusted": "81.5%",
+      "threshold": "55.0%",
+      "margin": "+26.5%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Serie A",
+      "league_emoji": "🇮🇹",
+      "date": "2025-02-02 19:45",
+      "day_of_week": "Sunday",
+      "home": "Roma",
+      "away": "Napoli",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "94.9%",
+      "risk_adjusted": "92.9%",
+      "threshold": "55.0%",
+      "margin": "+37.9%",
+      "backtest_wr": "64.2%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-02-02 20:00",
+      "day_of_week": "Sunday",
+      "home": "Real Betis",
+      "away": "Athletic Club Bilbao",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "84.0%",
+      "risk_adjusted": "82.0%",
+      "threshold": "60.0%",
+      "margin": "+22.0%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    }
+  ]
+}

@@ -1,0 +1,1351 @@
+{
+  "timestamp": "2025-11-18T01:15:53.554607",
+  "execution_time_seconds": 783.123409986496,
+  "weight_configurations": {
+    "extreme_recent": {
+      "7": 0.4,
+      "14": 0.3,
+      "30": 0.15,
+      "90": 0.1,
+      "365": 0.05
+    },
+    "recent_heavy": {
+      "7": 0.35,
+      "14": 0.25,
+      "30": 0.2,
+      "90": 0.15,
+      "365": 0.05
+    },
+    "balanced": {
+      "7": 0.25,
+      "14": 0.25,
+      "30": 0.25,
+      "90": 0.15,
+      "365": 0.1
+    },
+    "season_focused": {
+      "7": 0.2,
+      "14": 0.2,
+      "30": 0.25,
+      "90": 0.25,
+      "365": 0.1
+    },
+    "long_term": {
+      "7": 0.15,
+      "14": 0.15,
+      "30": 0.2,
+      "90": 0.25,
+      "365": 0.25
+    }
+  },
+  "league_recommendations": {
+    "Premier League": {
+      "config": "extreme_recent",
+      "pattern_count": 11,
+      "avg_win_rate": 0.7205312538578508,
+      "all_configs": {
+        "long_term": 8,
+        "recent_heavy": 5,
+        "balanced": 3,
+        "season_focused": 1,
+        "extreme_recent": 11
+      },
+      "patterns_tested": 28
+    },
+    "Bundesliga": {
+      "config": "extreme_recent",
+      "pattern_count": 15,
+      "avg_win_rate": 0.5255032355356657,
+      "all_configs": {
+        "extreme_recent": 15,
+        "balanced": 6,
+        "long_term": 9,
+        "season_focused": 3,
+        "recent_heavy": 5
+      },
+      "patterns_tested": 38
+    },
+    "La Liga": {
+      "config": "extreme_recent",
+      "pattern_count": 8,
+      "avg_win_rate": 0.8836364992491044,
+      "all_configs": {
+        "balanced": 5,
+        "long_term": 4,
+        "extreme_recent": 8,
+        "season_focused": 2
+      },
+      "patterns_tested": 19
+    },
+    "Serie A": {
+      "config": "long_term",
+      "pattern_count": 10,
+      "avg_win_rate": 0.6423253809519343,
+      "all_configs": {
+        "long_term": 10,
+        "season_focused": 4,
+        "balanced": 6,
+        "recent_heavy": 4,
+        "extreme_recent": 8
+      },
+      "patterns_tested": 32
+    },
+    "Romanian Liga 1": {
+      "config": "long_term",
+      "pattern_count": 11,
+      "avg_win_rate": 0.7594027849743423,
+      "all_configs": {
+        "long_term": 11,
+        "extreme_recent": 8,
+        "balanced": 7,
+        "season_focused": 3,
+        "recent_heavy": 8
+      },
+      "patterns_tested": 37
+    }
+  },
+  "detailed_results": {
+    "Premier League": {
+      "home_over_0_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 829,
+        "total_wins": 655,
+        "overall_win_rate": 0.7901085645355851,
+        "avg_confidence": 0.7752828111486906,
+        "periods_tested": 25
+      },
+      "away_over_0_5_goals": {
+        "best_config": "recent_heavy",
+        "total_predictions": 741,
+        "total_wins": 562,
+        "overall_win_rate": 0.7584345479082322,
+        "avg_confidence": 0.7674157221397985,
+        "periods_tested": 25
+      },
+      "total_over_1_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 822,
+        "total_wins": 681,
+        "overall_win_rate": 0.8284671532846716,
+        "avg_confidence": 0.8207653786278211,
+        "periods_tested": 25
+      },
+      "total_over_2_5_goals": {
+        "best_config": "season_focused",
+        "total_predictions": 418,
+        "total_wins": 247,
+        "overall_win_rate": 0.5909090909090909,
+        "avg_confidence": 0.6638072417991138,
+        "periods_tested": 22
+      },
+      "total_under_2_5_goals": {
+        "best_config": "recent_heavy",
+        "total_predictions": 24,
+        "total_wins": 9,
+        "overall_win_rate": 0.375,
+        "avg_confidence": 0.6329103236068417,
+        "periods_tested": 5
+      },
+      "home_over_2_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 817,
+        "total_wins": 691,
+        "overall_win_rate": 0.8457772337821298,
+        "avg_confidence": 0.8393278797101891,
+        "periods_tested": 25
+      },
+      "home_over_3_5_corners": {
+        "best_config": "recent_heavy",
+        "total_predictions": 723,
+        "total_wins": 543,
+        "overall_win_rate": 0.7510373443983402,
+        "avg_confidence": 0.7507808240578003,
+        "periods_tested": 24
+      },
+      "home_over_4_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 409,
+        "total_wins": 251,
+        "overall_win_rate": 0.6136919315403423,
+        "avg_confidence": 0.6730054864170982,
+        "periods_tested": 21
+      },
+      "away_over_2_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 771,
+        "total_wins": 592,
+        "overall_win_rate": 0.767833981841764,
+        "avg_confidence": 0.7874468105551641,
+        "periods_tested": 24
+      },
+      "away_over_3_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 533,
+        "total_wins": 333,
+        "overall_win_rate": 0.624765478424015,
+        "avg_confidence": 0.7000026135725482,
+        "periods_tested": 23
+      },
+      "away_over_4_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 24,
+        "total_wins": 12,
+        "overall_win_rate": 0.5,
+        "avg_confidence": 0.6420706500088698,
+        "periods_tested": 4
+      },
+      "total_over_6_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 841,
+        "total_wins": 733,
+        "overall_win_rate": 0.8715814506539834,
+        "avg_confidence": 0.8617351722681208,
+        "periods_tested": 25
+      },
+      "total_over_7_5_corners": {
+        "best_config": "recent_heavy",
+        "total_predictions": 787,
+        "total_wins": 622,
+        "overall_win_rate": 0.7903430749682337,
+        "avg_confidence": 0.7871244193214331,
+        "periods_tested": 24
+      },
+      "total_over_8_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 675,
+        "total_wins": 485,
+        "overall_win_rate": 0.7185185185185186,
+        "avg_confidence": 0.7380866921941668,
+        "periods_tested": 23
+      },
+      "total_over_9_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 412,
+        "total_wins": 254,
+        "overall_win_rate": 0.616504854368932,
+        "avg_confidence": 0.6593013533148295,
+        "periods_tested": 19
+      },
+      "total_over_10_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 174,
+        "total_wins": 84,
+        "overall_win_rate": 0.4827586206896552,
+        "avg_confidence": 0.6580825105772995,
+        "periods_tested": 17
+      },
+      "home_over_0_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 834,
+        "total_wins": 715,
+        "overall_win_rate": 0.8573141486810552,
+        "avg_confidence": 0.8598113040261163,
+        "periods_tested": 25
+      },
+      "away_over_0_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 839,
+        "total_wins": 750,
+        "overall_win_rate": 0.8939213349225268,
+        "avg_confidence": 0.8888442252787861,
+        "periods_tested": 25
+      },
+      "home_over_1_5_cards": {
+        "best_config": "recent_heavy",
+        "total_predictions": 346,
+        "total_wins": 200,
+        "overall_win_rate": 0.5780346820809249,
+        "avg_confidence": 0.6653759596718666,
+        "periods_tested": 19
+      },
+      "away_over_1_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 651,
+        "total_wins": 452,
+        "overall_win_rate": 0.6943164362519201,
+        "avg_confidence": 0.7221748199121341,
+        "periods_tested": 25
+      },
+      "home_over_2_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 20,
+        "total_wins": 10,
+        "overall_win_rate": 0.5,
+        "avg_confidence": 0.6380906977064577,
+        "periods_tested": 3
+      },
+      "away_over_2_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 37,
+        "total_wins": 24,
+        "overall_win_rate": 0.6486486486486487,
+        "avg_confidence": 0.6499425770068026,
+        "periods_tested": 4
+      },
+      "total_over_3_5_cards": {
+        "best_config": "balanced",
+        "total_predictions": 455,
+        "total_wins": 301,
+        "overall_win_rate": 0.6615384615384615,
+        "avg_confidence": 0.6859204545217653,
+        "periods_tested": 19
+      },
+      "total_over_4_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 82,
+        "total_wins": 50,
+        "overall_win_rate": 0.6097560975609756,
+        "avg_confidence": 0.6298378501297083,
+        "periods_tested": 8
+      },
+      "total_over_1_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 839,
+        "total_wins": 753,
+        "overall_win_rate": 0.8974970202622169,
+        "avg_confidence": 0.8875553282898037,
+        "periods_tested": 25
+      },
+      "total_over_2_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 814,
+        "total_wins": 639,
+        "overall_win_rate": 0.785012285012285,
+        "avg_confidence": 0.7794984132855821,
+        "periods_tested": 25
+      },
+      "total_under_4_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 824,
+        "total_wins": 678,
+        "overall_win_rate": 0.8228155339805825,
+        "avg_confidence": 0.8034332845546605,
+        "periods_tested": 25
+      },
+      "total_under_5_5_goals": {
+        "best_config": "extreme_recent",
+        "total_predictions": 835,
+        "total_wins": 774,
+        "overall_win_rate": 0.9269461077844311,
+        "avg_confidence": 0.9144147595155784,
+        "periods_tested": 25
+      }
+    },
+    "Bundesliga": {
+      "home_over_0_5_goals": {
+        "best_config": "extreme_recent",
+        "total_predictions": 929,
+        "total_wins": 734,
+        "overall_win_rate": 0.790096878363832,
+        "avg_confidence": 0.7990074486362673,
+        "periods_tested": 32
+      },
+      "away_over_0_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 903,
+        "total_wins": 666,
+        "overall_win_rate": 0.7375415282392026,
+        "avg_confidence": 0.7498347049157701,
+        "periods_tested": 32
+      },
+      "home_over_2_5_goals": {
+        "best_config": "extreme_recent",
+        "total_predictions": 11,
+        "total_wins": 1,
+        "overall_win_rate": 0.09090909090909091,
+        "avg_confidence": 0.7758685116945111,
+        "periods_tested": 3
+      },
+      "away_over_2_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 15,
+        "total_wins": 2,
+        "overall_win_rate": 0.13333333333333333,
+        "avg_confidence": 0.8456375303013791,
+        "periods_tested": 3
+      },
+      "total_over_1_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 989,
+        "total_wins": 818,
+        "overall_win_rate": 0.8270980788675429,
+        "avg_confidence": 0.8210584666257197,
+        "periods_tested": 32
+      },
+      "total_over_2_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 477,
+        "total_wins": 292,
+        "overall_win_rate": 0.6121593291404612,
+        "avg_confidence": 0.6906784040206503,
+        "periods_tested": 28
+      },
+      "total_under_2_5_goals": {
+        "best_config": "season_focused",
+        "total_predictions": 215,
+        "total_wins": 211,
+        "overall_win_rate": 0.9813953488372092,
+        "avg_confidence": 0.8559392745818715,
+        "periods_tested": 8
+      },
+      "home_win_and_over_2_5": {
+        "best_config": "extreme_recent",
+        "total_predictions": 23,
+        "total_wins": 6,
+        "overall_win_rate": 0.2608695652173913,
+        "avg_confidence": 0.6974758217604284,
+        "periods_tested": 6
+      },
+      "draw_and_under_2_5": {
+        "best_config": "long_term",
+        "total_predictions": 197,
+        "total_wins": 197,
+        "overall_win_rate": 1.0,
+        "avg_confidence": 0.8104804507905511,
+        "periods_tested": 6
+      },
+      "home_over_2_5_corners": {
+        "best_config": "balanced",
+        "total_predictions": 971,
+        "total_wins": 820,
+        "overall_win_rate": 0.8444902162718847,
+        "avg_confidence": 0.8340260091773669,
+        "periods_tested": 32
+      },
+      "home_over_3_5_corners": {
+        "best_config": "balanced",
+        "total_predictions": 770,
+        "total_wins": 564,
+        "overall_win_rate": 0.7324675324675325,
+        "avg_confidence": 0.7326102451914219,
+        "periods_tested": 32
+      },
+      "home_over_4_5_corners": {
+        "best_config": "recent_heavy",
+        "total_predictions": 399,
+        "total_wins": 233,
+        "overall_win_rate": 0.5839598997493735,
+        "avg_confidence": 0.6832276649533283,
+        "periods_tested": 26
+      },
+      "away_over_2_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 847,
+        "total_wins": 635,
+        "overall_win_rate": 0.7497048406139315,
+        "avg_confidence": 0.77641580614971,
+        "periods_tested": 32
+      },
+      "away_over_3_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 460,
+        "total_wins": 274,
+        "overall_win_rate": 0.5956521739130435,
+        "avg_confidence": 0.6557131591658123,
+        "periods_tested": 26
+      },
+      "total_over_6_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 969,
+        "total_wins": 808,
+        "overall_win_rate": 0.8338493292053664,
+        "avg_confidence": 0.8268529375595337,
+        "periods_tested": 32
+      },
+      "total_over_7_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 897,
+        "total_wins": 664,
+        "overall_win_rate": 0.7402452619843924,
+        "avg_confidence": 0.7277146943493229,
+        "periods_tested": 32
+      },
+      "total_over_8_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 523,
+        "total_wins": 313,
+        "overall_win_rate": 0.5984703632887189,
+        "avg_confidence": 0.6869185316798915,
+        "periods_tested": 30
+      },
+      "total_over_9_5_corners": {
+        "best_config": "season_focused",
+        "total_predictions": 111,
+        "total_wins": 62,
+        "overall_win_rate": 0.5585585585585585,
+        "avg_confidence": 0.6501138329699675,
+        "periods_tested": 15
+      },
+      "total_over_10_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 43,
+        "total_wins": 22,
+        "overall_win_rate": 0.5116279069767442,
+        "avg_confidence": 0.6749788064866046,
+        "periods_tested": 8
+      },
+      "total_under_7_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 207,
+        "total_wins": 203,
+        "overall_win_rate": 0.9806763285024155,
+        "avg_confidence": 0.8198707629577552,
+        "periods_tested": 7
+      },
+      "corner_advantage_home_1_5": {
+        "best_config": "recent_heavy",
+        "total_predictions": 104,
+        "total_wins": 48,
+        "overall_win_rate": 0.46153846153846156,
+        "avg_confidence": 0.6532757820513507,
+        "periods_tested": 12
+      },
+      "home_over_1_5_cards": {
+        "best_config": "recent_heavy",
+        "total_predictions": 436,
+        "total_wins": 245,
+        "overall_win_rate": 0.5619266055045872,
+        "avg_confidence": 0.6821349687134739,
+        "periods_tested": 30
+      },
+      "home_over_2_5_cards": {
+        "best_config": "recent_heavy",
+        "total_predictions": 10,
+        "total_wins": 3,
+        "overall_win_rate": 0.3,
+        "avg_confidence": 0.7537147830961695,
+        "periods_tested": 2
+      },
+      "away_over_1_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 611,
+        "total_wins": 387,
+        "overall_win_rate": 0.6333878887070377,
+        "avg_confidence": 0.702201552717772,
+        "periods_tested": 31
+      },
+      "away_over_2_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 15,
+        "total_wins": 7,
+        "overall_win_rate": 0.4666666666666667,
+        "avg_confidence": 0.6347198834967407,
+        "periods_tested": 2
+      },
+      "total_over_3_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 495,
+        "total_wins": 300,
+        "overall_win_rate": 0.6060606060606061,
+        "avg_confidence": 0.6917699895220761,
+        "periods_tested": 30
+      },
+      "total_over_4_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 69,
+        "total_wins": 32,
+        "overall_win_rate": 0.463768115942029,
+        "avg_confidence": 0.6994398429219801,
+        "periods_tested": 8
+      },
+      "total_over_1_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 984,
+        "total_wins": 874,
+        "overall_win_rate": 0.8882113821138211,
+        "avg_confidence": 0.8839776386871006,
+        "periods_tested": 32
+      },
+      "total_under_1_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 215,
+        "total_wins": 210,
+        "overall_win_rate": 0.9767441860465116,
+        "avg_confidence": 0.9044500982426746,
+        "periods_tested": 8
+      },
+      "total_over_2_5_cards": {
+        "best_config": "balanced",
+        "total_predictions": 893,
+        "total_wins": 679,
+        "overall_win_rate": 0.7603583426651735,
+        "avg_confidence": 0.768763686709734,
+        "periods_tested": 31
+      },
+      "total_under_2_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 225,
+        "total_wins": 216,
+        "overall_win_rate": 0.96,
+        "avg_confidence": 0.9117221481717235,
+        "periods_tested": 9
+      },
+      "total_over_4_5_goals": {
+        "best_config": "extreme_recent",
+        "total_predictions": 20,
+        "total_wins": 3,
+        "overall_win_rate": 0.15,
+        "avg_confidence": 0.8703230016517313,
+        "periods_tested": 4
+      },
+      "total_under_4_5_goals": {
+        "best_config": "recent_heavy",
+        "total_predictions": 1116,
+        "total_wins": 929,
+        "overall_win_rate": 0.8324372759856631,
+        "avg_confidence": 0.8126754780564611,
+        "periods_tested": 38
+      },
+      "total_under_5_5_goals": {
+        "best_config": "season_focused",
+        "total_predictions": 1194,
+        "total_wins": 1085,
+        "overall_win_rate": 0.9087102177554439,
+        "avg_confidence": 0.8954790961444545,
+        "periods_tested": 38
+      },
+      "home_win_clean_sheet": {
+        "best_config": "extreme_recent",
+        "total_predictions": 10,
+        "total_wins": 0,
+        "overall_win_rate": 0.0,
+        "avg_confidence": 0.8179666729255277,
+        "periods_tested": 2
+      },
+      "away_win_or_draw": {
+        "best_config": "long_term",
+        "total_predictions": 518,
+        "total_wins": 396,
+        "overall_win_rate": 0.7644787644787645,
+        "avg_confidence": 0.7045919943710881,
+        "periods_tested": 31
+      },
+      "high_scoring_home_win": {
+        "best_config": "extreme_recent",
+        "total_predictions": 11,
+        "total_wins": 1,
+        "overall_win_rate": 0.09090909090909091,
+        "avg_confidence": 0.7709632049468134,
+        "periods_tested": 3
+      },
+      "defensive_match": {
+        "best_config": "extreme_recent",
+        "total_predictions": 210,
+        "total_wins": 210,
+        "overall_win_rate": 1.0,
+        "avg_confidence": 0.9011829416739375,
+        "periods_tested": 7
+      }
+    },
+    "La Liga": {
+      "home_over_0_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 1150,
+        "total_wins": 889,
+        "overall_win_rate": 0.7730434782608696,
+        "avg_confidence": 0.7724948186056052,
+        "periods_tested": 34
+      },
+      "away_over_0_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 1032,
+        "total_wins": 702,
+        "overall_win_rate": 0.6802325581395349,
+        "avg_confidence": 0.687784873690268,
+        "periods_tested": 34
+      },
+      "total_over_1_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 1159,
+        "total_wins": 840,
+        "overall_win_rate": 0.724762726488352,
+        "avg_confidence": 0.7231946457459831,
+        "periods_tested": 34
+      },
+      "home_over_2_5_corners": {
+        "best_config": "balanced",
+        "total_predictions": 1206,
+        "total_wins": 1010,
+        "overall_win_rate": 0.8374792703150912,
+        "avg_confidence": 0.8403003306935167,
+        "periods_tested": 34
+      },
+      "home_over_3_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 1120,
+        "total_wins": 798,
+        "overall_win_rate": 0.7125,
+        "avg_confidence": 0.7103933986982189,
+        "periods_tested": 34
+      },
+      "away_over_2_5_corners": {
+        "best_config": "balanced",
+        "total_predictions": 1010,
+        "total_wins": 728,
+        "overall_win_rate": 0.7207920792079208,
+        "avg_confidence": 0.7253777257293018,
+        "periods_tested": 34
+      },
+      "total_over_6_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1169,
+        "total_wins": 954,
+        "overall_win_rate": 0.8160821214713431,
+        "avg_confidence": 0.8145920687875465,
+        "periods_tested": 34
+      },
+      "total_over_7_5_corners": {
+        "best_config": "season_focused",
+        "total_predictions": 1036,
+        "total_wins": 755,
+        "overall_win_rate": 0.7287644787644788,
+        "avg_confidence": 0.7185990709198727,
+        "periods_tested": 34
+      },
+      "home_over_0_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1224,
+        "total_wins": 1083,
+        "overall_win_rate": 0.8848039215686274,
+        "avg_confidence": 0.8883154031962219,
+        "periods_tested": 34
+      },
+      "home_over_1_5_cards": {
+        "best_config": "season_focused",
+        "total_predictions": 909,
+        "total_wins": 623,
+        "overall_win_rate": 0.6853685368536854,
+        "avg_confidence": 0.7053221926007402,
+        "periods_tested": 32
+      },
+      "away_over_0_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1221,
+        "total_wins": 1130,
+        "overall_win_rate": 0.9254709254709255,
+        "avg_confidence": 0.9305624768422267,
+        "periods_tested": 34
+      },
+      "away_over_1_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1049,
+        "total_wins": 758,
+        "overall_win_rate": 0.7225929456625357,
+        "avg_confidence": 0.7404537836054557,
+        "periods_tested": 34
+      },
+      "total_over_3_5_cards": {
+        "best_config": "balanced",
+        "total_predictions": 964,
+        "total_wins": 683,
+        "overall_win_rate": 0.7085062240663901,
+        "avg_confidence": 0.7181028435590007,
+        "periods_tested": 33
+      },
+      "total_over_1_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1223,
+        "total_wins": 1144,
+        "overall_win_rate": 0.9354047424366312,
+        "avg_confidence": 0.9406929232313642,
+        "periods_tested": 34
+      },
+      "total_under_1_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 252,
+        "total_wins": 252,
+        "overall_win_rate": 1.0,
+        "avg_confidence": 0.9024078430332583,
+        "periods_tested": 7
+      },
+      "total_over_2_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1199,
+        "total_wins": 1000,
+        "overall_win_rate": 0.8340283569641368,
+        "avg_confidence": 0.8330288368730892,
+        "periods_tested": 34
+      },
+      "total_under_2_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 238,
+        "total_wins": 238,
+        "overall_win_rate": 1.0,
+        "avg_confidence": 0.816176208733045,
+        "periods_tested": 6
+      },
+      "total_under_4_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 1478,
+        "total_wins": 1324,
+        "overall_win_rate": 0.8958051420838972,
+        "avg_confidence": 0.888911019320313,
+        "periods_tested": 40
+      },
+      "total_under_5_5_goals": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1481,
+        "total_wins": 1408,
+        "overall_win_rate": 0.950708980418636,
+        "avg_confidence": 0.9528785062431127,
+        "periods_tested": 40
+      }
+    },
+    "Serie A": {
+      "home_over_0_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 1190,
+        "total_wins": 884,
+        "overall_win_rate": 0.7428571428571429,
+        "avg_confidence": 0.7409946732092261,
+        "periods_tested": 34
+      },
+      "away_over_0_5_goals": {
+        "best_config": "season_focused",
+        "total_predictions": 994,
+        "total_wins": 687,
+        "overall_win_rate": 0.6911468812877264,
+        "avg_confidence": 0.7067858574496869,
+        "periods_tested": 34
+      },
+      "home_over_1_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 13,
+        "total_wins": 7,
+        "overall_win_rate": 0.5384615384615384,
+        "avg_confidence": 0.6349780240928401,
+        "periods_tested": 3
+      },
+      "away_over_1_5_goals": {
+        "best_config": "recent_heavy",
+        "total_predictions": 16,
+        "total_wins": 7,
+        "overall_win_rate": 0.4375,
+        "avg_confidence": 0.7187366633288574,
+        "periods_tested": 4
+      },
+      "total_over_1_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 1080,
+        "total_wins": 795,
+        "overall_win_rate": 0.7361111111111112,
+        "avg_confidence": 0.7423393340603265,
+        "periods_tested": 34
+      },
+      "total_over_2_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 92,
+        "total_wins": 50,
+        "overall_win_rate": 0.5434782608695652,
+        "avg_confidence": 0.6531289815059746,
+        "periods_tested": 15
+      },
+      "total_under_2_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 174,
+        "total_wins": 98,
+        "overall_win_rate": 0.5632183908045977,
+        "avg_confidence": 0.6301240129293354,
+        "periods_tested": 17
+      },
+      "both_teams_to_score": {
+        "best_config": "long_term",
+        "total_predictions": 85,
+        "total_wins": 45,
+        "overall_win_rate": 0.5294117647058824,
+        "avg_confidence": 0.6346735473488946,
+        "periods_tested": 11
+      },
+      "both_teams_not_to_score": {
+        "best_config": "balanced",
+        "total_predictions": 161,
+        "total_wins": 82,
+        "overall_win_rate": 0.5093167701863354,
+        "avg_confidence": 0.6301112738890516,
+        "periods_tested": 23
+      },
+      "home_win": {
+        "best_config": "extreme_recent",
+        "total_predictions": 15,
+        "total_wins": 6,
+        "overall_win_rate": 0.4,
+        "avg_confidence": 0.6352817606797184,
+        "periods_tested": 6
+      },
+      "away_win_or_draw": {
+        "best_config": "long_term",
+        "total_predictions": 503,
+        "total_wins": 286,
+        "overall_win_rate": 0.5685884691848907,
+        "avg_confidence": 0.6380027269454751,
+        "periods_tested": 31
+      },
+      "home_win_or_draw": {
+        "best_config": "extreme_recent",
+        "total_predictions": 943,
+        "total_wins": 661,
+        "overall_win_rate": 0.7009544008483564,
+        "avg_confidence": 0.7293981088337489,
+        "periods_tested": 33
+      },
+      "draw": {
+        "best_config": "recent_heavy",
+        "total_predictions": 11,
+        "total_wins": 5,
+        "overall_win_rate": 0.45454545454545453,
+        "avg_confidence": 0.6689164820825404,
+        "periods_tested": 3
+      },
+      "home_over_3_5_corners": {
+        "best_config": "season_focused",
+        "total_predictions": 953,
+        "total_wins": 646,
+        "overall_win_rate": 0.6778593913955928,
+        "avg_confidence": 0.6934428685092029,
+        "periods_tested": 34
+      },
+      "home_over_4_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 244,
+        "total_wins": 138,
+        "overall_win_rate": 0.5655737704918032,
+        "avg_confidence": 0.6237781960191436,
+        "periods_tested": 21
+      },
+      "away_over_2_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 1135,
+        "total_wins": 828,
+        "overall_win_rate": 0.7295154185022027,
+        "avg_confidence": 0.7334904032775263,
+        "periods_tested": 34
+      },
+      "away_over_3_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 320,
+        "total_wins": 181,
+        "overall_win_rate": 0.565625,
+        "avg_confidence": 0.6369378293252445,
+        "periods_tested": 26
+      },
+      "total_over_6_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1126,
+        "total_wins": 898,
+        "overall_win_rate": 0.7975133214920072,
+        "avg_confidence": 0.7949884369031981,
+        "periods_tested": 34
+      },
+      "total_over_8_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 494,
+        "total_wins": 301,
+        "overall_win_rate": 0.6093117408906883,
+        "avg_confidence": 0.642869409177316,
+        "periods_tested": 28
+      },
+      "total_over_9_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 152,
+        "total_wins": 66,
+        "overall_win_rate": 0.4342105263157895,
+        "avg_confidence": 0.6410370843337762,
+        "periods_tested": 24
+      },
+      "total_under_8_5_corners": {
+        "best_config": "recent_heavy",
+        "total_predictions": 41,
+        "total_wins": 19,
+        "overall_win_rate": 0.4634146341463415,
+        "avg_confidence": 0.6776490653053268,
+        "periods_tested": 7
+      },
+      "home_over_0_5_cards": {
+        "best_config": "season_focused",
+        "total_predictions": 1215,
+        "total_wins": 1056,
+        "overall_win_rate": 0.8691358024691358,
+        "avg_confidence": 0.8615001793233702,
+        "periods_tested": 34
+      },
+      "away_over_0_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1215,
+        "total_wins": 1130,
+        "overall_win_rate": 0.9300411522633745,
+        "avg_confidence": 0.9295022405283344,
+        "periods_tested": 34
+      },
+      "home_over_1_5_cards": {
+        "best_config": "balanced",
+        "total_predictions": 645,
+        "total_wins": 399,
+        "overall_win_rate": 0.6186046511627907,
+        "avg_confidence": 0.67261094857582,
+        "periods_tested": 29
+      },
+      "away_over_1_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1031,
+        "total_wins": 737,
+        "overall_win_rate": 0.7148399612027158,
+        "avg_confidence": 0.7347060670007243,
+        "periods_tested": 34
+      },
+      "away_over_2_5_cards": {
+        "best_config": "recent_heavy",
+        "total_predictions": 28,
+        "total_wins": 11,
+        "overall_win_rate": 0.39285714285714285,
+        "avg_confidence": 0.6434819611527024,
+        "periods_tested": 5
+      },
+      "total_over_3_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 767,
+        "total_wins": 506,
+        "overall_win_rate": 0.6597131681877445,
+        "avg_confidence": 0.6737440362134994,
+        "periods_tested": 32
+      },
+      "total_over_4_5_cards": {
+        "best_config": "balanced",
+        "total_predictions": 120,
+        "total_wins": 66,
+        "overall_win_rate": 0.55,
+        "avg_confidence": 0.6448279844407198,
+        "periods_tested": 10
+      },
+      "total_over_1_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1215,
+        "total_wins": 1119,
+        "overall_win_rate": 0.9209876543209876,
+        "avg_confidence": 0.9210165080359962,
+        "periods_tested": 34
+      },
+      "total_over_2_5_cards": {
+        "best_config": "season_focused",
+        "total_predictions": 1200,
+        "total_wins": 971,
+        "overall_win_rate": 0.8091666666666667,
+        "avg_confidence": 0.8070765064590818,
+        "periods_tested": 34
+      },
+      "total_under_4_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 1212,
+        "total_wins": 1078,
+        "overall_win_rate": 0.8894389438943895,
+        "avg_confidence": 0.882912870771466,
+        "periods_tested": 34
+      },
+      "total_under_5_5_goals": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1213,
+        "total_wins": 1166,
+        "overall_win_rate": 0.9612530915086562,
+        "avg_confidence": 0.9573673140133749,
+        "periods_tested": 34
+      }
+    },
+    "Romanian Liga 1": {
+      "home_over_0_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 1003,
+        "total_wins": 744,
+        "overall_win_rate": 0.7417746759720838,
+        "avg_confidence": 0.7400283370817338,
+        "periods_tested": 38
+      },
+      "away_over_0_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 834,
+        "total_wins": 558,
+        "overall_win_rate": 0.6690647482014388,
+        "avg_confidence": 0.6861236055815919,
+        "periods_tested": 38
+      },
+      "away_over_1_5_goals": {
+        "best_config": "extreme_recent",
+        "total_predictions": 11,
+        "total_wins": 4,
+        "overall_win_rate": 0.36363636363636365,
+        "avg_confidence": 0.6847018227980557,
+        "periods_tested": 5
+      },
+      "total_over_1_5_goals": {
+        "best_config": "balanced",
+        "total_predictions": 848,
+        "total_wins": 594,
+        "overall_win_rate": 0.7004716981132075,
+        "avg_confidence": 0.7227467313046937,
+        "periods_tested": 38
+      },
+      "total_over_2_5_goals": {
+        "best_config": "season_focused",
+        "total_predictions": 33,
+        "total_wins": 17,
+        "overall_win_rate": 0.5151515151515151,
+        "avg_confidence": 0.6757457797814993,
+        "periods_tested": 9
+      },
+      "total_under_2_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 410,
+        "total_wins": 279,
+        "overall_win_rate": 0.6804878048780488,
+        "avg_confidence": 0.6607146623224769,
+        "periods_tested": 32
+      },
+      "both_teams_to_score": {
+        "best_config": "season_focused",
+        "total_predictions": 151,
+        "total_wins": 79,
+        "overall_win_rate": 0.5231788079470199,
+        "avg_confidence": 0.6530753255958993,
+        "periods_tested": 23
+      },
+      "draw_and_under_2_5": {
+        "best_config": "long_term",
+        "total_predictions": 86,
+        "total_wins": 86,
+        "overall_win_rate": 1.0,
+        "avg_confidence": 0.75809398943904,
+        "periods_tested": 3
+      },
+      "home_over_2_5_corners": {
+        "best_config": "recent_heavy",
+        "total_predictions": 987,
+        "total_wins": 795,
+        "overall_win_rate": 0.8054711246200608,
+        "avg_confidence": 0.803551960981457,
+        "periods_tested": 38
+      },
+      "home_over_3_5_corners": {
+        "best_config": "balanced",
+        "total_predictions": 788,
+        "total_wins": 539,
+        "overall_win_rate": 0.684010152284264,
+        "avg_confidence": 0.7108539466037426,
+        "periods_tested": 37
+      },
+      "home_over_4_5_corners": {
+        "best_config": "recent_heavy",
+        "total_predictions": 306,
+        "total_wins": 175,
+        "overall_win_rate": 0.5718954248366013,
+        "avg_confidence": 0.6621154016586925,
+        "periods_tested": 27
+      },
+      "away_over_2_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 953,
+        "total_wins": 674,
+        "overall_win_rate": 0.7072402938090241,
+        "avg_confidence": 0.7128641488276932,
+        "periods_tested": 38
+      },
+      "away_over_3_5_corners": {
+        "best_config": "balanced",
+        "total_predictions": 248,
+        "total_wins": 128,
+        "overall_win_rate": 0.5161290322580645,
+        "avg_confidence": 0.6560122097803368,
+        "periods_tested": 29
+      },
+      "total_over_6_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 966,
+        "total_wins": 774,
+        "overall_win_rate": 0.8012422360248447,
+        "avg_confidence": 0.8066405140581203,
+        "periods_tested": 37
+      },
+      "total_over_7_5_corners": {
+        "best_config": "recent_heavy",
+        "total_predictions": 792,
+        "total_wins": 544,
+        "overall_win_rate": 0.6868686868686869,
+        "avg_confidence": 0.7234473599132372,
+        "periods_tested": 37
+      },
+      "total_over_8_5_corners": {
+        "best_config": "recent_heavy",
+        "total_predictions": 433,
+        "total_wins": 257,
+        "overall_win_rate": 0.5935334872979214,
+        "avg_confidence": 0.6715767394437234,
+        "periods_tested": 34
+      },
+      "total_over_9_5_corners": {
+        "best_config": "recent_heavy",
+        "total_predictions": 70,
+        "total_wins": 30,
+        "overall_win_rate": 0.42857142857142855,
+        "avg_confidence": 0.6540228877374975,
+        "periods_tested": 19
+      },
+      "total_over_10_5_corners": {
+        "best_config": "extreme_recent",
+        "total_predictions": 18,
+        "total_wins": 8,
+        "overall_win_rate": 0.4444444444444444,
+        "avg_confidence": 0.6957725895247174,
+        "periods_tested": 7
+      },
+      "total_under_7_5_corners": {
+        "best_config": "long_term",
+        "total_predictions": 89,
+        "total_wins": 87,
+        "overall_win_rate": 0.9775280898876404,
+        "avg_confidence": 0.783528110395898,
+        "periods_tested": 4
+      },
+      "corner_advantage_home_1_5": {
+        "best_config": "season_focused",
+        "total_predictions": 26,
+        "total_wins": 11,
+        "overall_win_rate": 0.4230769230769231,
+        "avg_confidence": 0.6540770133481972,
+        "periods_tested": 8
+      },
+      "home_over_0_5_cards": {
+        "best_config": "recent_heavy",
+        "total_predictions": 1032,
+        "total_wins": 914,
+        "overall_win_rate": 0.8856589147286822,
+        "avg_confidence": 0.884132529850671,
+        "periods_tested": 38
+      },
+      "away_over_0_5_cards": {
+        "best_config": "recent_heavy",
+        "total_predictions": 1035,
+        "total_wins": 942,
+        "overall_win_rate": 0.9101449275362319,
+        "avg_confidence": 0.9085391391234537,
+        "periods_tested": 38
+      },
+      "home_over_1_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 668,
+        "total_wins": 426,
+        "overall_win_rate": 0.6377245508982036,
+        "avg_confidence": 0.6675508990847634,
+        "periods_tested": 38
+      },
+      "home_over_2_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 20,
+        "total_wins": 6,
+        "overall_win_rate": 0.3,
+        "avg_confidence": 0.6566819985850039,
+        "periods_tested": 7
+      },
+      "away_over_1_5_cards": {
+        "best_config": "extreme_recent",
+        "total_predictions": 756,
+        "total_wins": 528,
+        "overall_win_rate": 0.6984126984126984,
+        "avg_confidence": 0.7362819779345329,
+        "periods_tested": 37
+      },
+      "away_over_2_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 26,
+        "total_wins": 13,
+        "overall_win_rate": 0.5,
+        "avg_confidence": 0.6460383484322133,
+        "periods_tested": 6
+      },
+      "total_over_3_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 674,
+        "total_wins": 452,
+        "overall_win_rate": 0.6706231454005934,
+        "avg_confidence": 0.67648199991081,
+        "periods_tested": 37
+      },
+      "total_over_4_5_cards": {
+        "best_config": "balanced",
+        "total_predictions": 86,
+        "total_wins": 37,
+        "overall_win_rate": 0.43023255813953487,
+        "avg_confidence": 0.641870614225922,
+        "periods_tested": 17
+      },
+      "total_over_5_5_cards": {
+        "best_config": "balanced",
+        "total_predictions": 14,
+        "total_wins": 6,
+        "overall_win_rate": 0.42857142857142855,
+        "avg_confidence": 0.6540615184189985,
+        "periods_tested": 5
+      },
+      "total_over_1_5_cards": {
+        "best_config": "recent_heavy",
+        "total_predictions": 1035,
+        "total_wins": 947,
+        "overall_win_rate": 0.914975845410628,
+        "avg_confidence": 0.9100945062755024,
+        "periods_tested": 38
+      },
+      "total_under_1_5_cards": {
+        "best_config": "balanced",
+        "total_predictions": 105,
+        "total_wins": 104,
+        "overall_win_rate": 0.9904761904761905,
+        "avg_confidence": 0.8264702618880374,
+        "periods_tested": 5
+      },
+      "total_over_2_5_cards": {
+        "best_config": "long_term",
+        "total_predictions": 1029,
+        "total_wins": 829,
+        "overall_win_rate": 0.8056365403304179,
+        "avg_confidence": 0.7978401240718808,
+        "periods_tested": 38
+      },
+      "total_under_2_5_cards": {
+        "best_config": "balanced",
+        "total_predictions": 106,
+        "total_wins": 105,
+        "overall_win_rate": 0.9905660377358491,
+        "avg_confidence": 0.846607556125139,
+        "periods_tested": 5
+      },
+      "total_under_4_5_goals": {
+        "best_config": "extreme_recent",
+        "total_predictions": 1127,
+        "total_wins": 1024,
+        "overall_win_rate": 0.9086069210292813,
+        "avg_confidence": 0.8946421297944523,
+        "periods_tested": 41
+      },
+      "total_under_5_5_goals": {
+        "best_config": "long_term",
+        "total_predictions": 1146,
+        "total_wins": 1104,
+        "overall_win_rate": 0.9633507853403142,
+        "avg_confidence": 0.9564505910208526,
+        "periods_tested": 41
+      },
+      "away_win_or_draw": {
+        "best_config": "extreme_recent",
+        "total_predictions": 549,
+        "total_wins": 362,
+        "overall_win_rate": 0.6593806921675774,
+        "avg_confidence": 0.7015942225047089,
+        "periods_tested": 39
+      },
+      "defensive_match": {
+        "best_config": "extreme_recent",
+        "total_predictions": 106,
+        "total_wins": 106,
+        "overall_win_rate": 1.0,
+        "avg_confidence": 0.8609297659624087,
+        "periods_tested": 4
+      }
+    }
+  }
+}

@@ -1,0 +1,537 @@
+========================================================================================================================
+🎯 FOOTBALL BETTING PREDICTIONS - MULTI-LEAGUE SYSTEM
+========================================================================================================================
+📅 Date Range: 2025-08-11 → 2025-08-17
+📊 Generated: 2025-11-18 10:06:56
+✅ Total Predictions: 16 bets across 5 leagues
+📈 Completed: 16 | Pending: 0
+🎯 Results: 15 WIN (93.8%) | 1 LOSS (6.2%)
+========================================================================================================================
+
+📊 LEAGUE SUMMARY
+------------------------------------------------------------------------------------------------------------------------
+🇪🇸 La Liga                8 bets   Avg Confidence: 79.5%
+🇷🇴 Romania Liga 1         8 bets   Avg Confidence: 89.4%
+
+🎯 PATTERN SUMMARY
+------------------------------------------------------------------------------------------------------------------------
+  home_over_0_5_cards                        8 bets
+  total_under_5_5_goals                      6 bets
+  away_over_2_5_corners                      1 bets
+  away_over_0_5_cards                        1 bets
+
+====================================================================================================================================================================================
+🌟 HIGH-CONFIDENCE PREDICTIONS (R-Adj ≥ 83%) - FILTERED TABLE
+====================================================================================================================================================================================
+📊 Filtered Bets: 8 of 16 total (50.0%)
+📈 Completed: 8 | Pending: 0
+🎯 Results: 8 WIN (100.0%) | 0 LOSS (0.0%)
+
+#    Date         Time   League             Home Team                 Away Team                 Pattern                   Conf    R-Adj   Status     Result 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1    2025-08-11   16:00  🇷🇴 Romania Liga 1  Botoşani                  Argeș                     home_over_0_5_cards       89.7%   87.7%   COMPLETE   WIN    
+2    2025-08-11   18:30  🇷🇴 Romania Liga 1  Oţelul Galaţi             Rapid Bucureşti           home_over_0_5_cards       89.8%   87.8%   COMPLETE   WIN    
+3    2025-08-15   16:00  🇷🇴 Romania Liga 1  Unirea Slobozia           Metaloglobus              home_over_0_5_cards       92.7%   90.7%   COMPLETE   WIN    
+4    2025-08-15   18:30  🇷🇴 Romania Liga 1  Dinamo Bucureşti          UTA Arad                  home_over_0_5_cards       91.8%   89.8%   COMPLETE   WIN    
+5    2025-08-16   18:30  🇷🇴 Romania Liga 1  Petrolul 52               Hermannstadt              home_over_0_5_cards       91.7%   89.7%   COMPLETE   WIN    
+6    2025-08-17   13:15  🇷🇴 Romania Liga 1  Csikszereda               CS U Craiova              home_over_0_5_cards       91.8%   89.8%   COMPLETE   WIN    
+7    2025-08-17   15:30  🇷🇴 Romania Liga 1  CFR Cluj                  Botoşani                  home_over_0_5_cards       91.9%   89.9%   COMPLETE   WIN    
+8    2025-08-17   18:30  🇷🇴 Romania Liga 1  Rapid Bucureşti           FCSB                      home_over_0_5_cards       91.9%   89.9%   COMPLETE   WIN    
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Filtered Total: 8 bets (≥85% confidence)
+====================================================================================================================================================================================
+
+
+====================================================================================================================================================================================
+📅 ALL PREDICTIONS TABLE - COMPLETE TRACKING SHEET
+====================================================================================================================================================================================
+
+#    Date         Time   League             Home Team                 Away Team                 Pattern                   Conf    R-Adj   Status     Result 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1    2025-08-11   16:00  🇷🇴 Romania Liga 1  Botoşani                  Argeș                     home_over_0_5_cards       89.7%   87.7%   COMPLETE   WIN    
+2    2025-08-11   18:30  🇷🇴 Romania Liga 1  Oţelul Galaţi             Rapid Bucureşti           home_over_0_5_cards       89.8%   87.8%   COMPLETE   WIN    
+3    2025-08-15   16:00  🇷🇴 Romania Liga 1  Unirea Slobozia           Metaloglobus              home_over_0_5_cards       92.7%   90.7%   COMPLETE   WIN    
+4    2025-08-15   17:00  🇪🇸 La Liga         Girona FC                 Rayo Vallecano            total_under_5_5_goals     81.7%   76.7%   COMPLETE   WIN    
+5    2025-08-15   18:30  🇷🇴 Romania Liga 1  Dinamo Bucureşti          UTA Arad                  home_over_0_5_cards       91.8%   89.8%   COMPLETE   WIN    
+6    2025-08-15   19:30  🇪🇸 La Liga         Villarreal                Real Oviedo               away_over_2_5_corners     82.6%   80.6%   COMPLETE   LOSS   
+7    2025-08-16   17:30  🇪🇸 La Liga         RCD Mallorca              FC Barcelona              total_under_5_5_goals     84.7%   79.7%   COMPLETE   WIN    
+8    2025-08-16   18:30  🇷🇴 Romania Liga 1  Petrolul 52               Hermannstadt              home_over_0_5_cards       91.7%   89.7%   COMPLETE   WIN    
+9    2025-08-16   19:30  🇪🇸 La Liga         Deportivo Alavés          Levante UD                total_under_5_5_goals     84.8%   79.8%   COMPLETE   WIN    
+10   2025-08-16   19:30  🇪🇸 La Liga         Valencia CF               Real Sociedad             total_under_5_5_goals     84.8%   79.8%   COMPLETE   WIN    
+11   2025-08-17   13:15  🇷🇴 Romania Liga 1  Csikszereda               CS U Craiova              home_over_0_5_cards       91.8%   89.8%   COMPLETE   WIN    
+12   2025-08-17   15:00  🇪🇸 La Liga         Celta de Vigo             Getafe CF                 total_under_5_5_goals     84.9%   79.9%   COMPLETE   WIN    
+13   2025-08-17   15:30  🇷🇴 Romania Liga 1  CFR Cluj                  Botoşani                  home_over_0_5_cards       91.9%   89.9%   COMPLETE   WIN    
+14   2025-08-17   17:30  🇪🇸 La Liga         Athletic Club Bilbao      Sevilla FC                total_under_5_5_goals     84.9%   79.9%   COMPLETE   WIN    
+15   2025-08-17   18:30  🇷🇴 Romania Liga 1  Rapid Bucureşti           FCSB                      home_over_0_5_cards       91.9%   89.9%   COMPLETE   WIN    
+16   2025-08-17   19:30  🇪🇸 La Liga         RCD Espanyol              Atlético Madrid           away_over_0_5_cards       82.0%   80.0%   COMPLETE   WIN    
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Total: 16 bets
+====================================================================================================================================================================================
+
+
+====================================================================================================================================================================================
+📊 DETAILED PREDICTIONS BY DATE
+====================================================================================================================================================================================
+
+📅 Monday, 2025-08-11 (2 bets)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. 🇷🇴 Romania Liga 1       | 16:00 | Botoşani vs Argeș
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 89.7% → Risk-Adj: 87.7%
+   🚧 Threshold: 55.0% | Margin: +32.7%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+2. 🇷🇴 Romania Liga 1       | 18:30 | Oţelul Galaţi vs Rapid Bucureşti
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 89.8% → Risk-Adj: 87.8%
+   🚧 Threshold: 55.0% | Margin: +32.8%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+
+📅 Friday, 2025-08-15 (4 bets)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. 🇷🇴 Romania Liga 1       | 16:00 | Unirea Slobozia vs Metaloglobus
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 92.7% → Risk-Adj: 90.7%
+   🚧 Threshold: 55.0% | Margin: +35.7%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+4. 🇪🇸 La Liga              | 17:00 | Girona FC vs Rayo Vallecano
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 81.7% → Risk-Adj: 76.7%
+   🚧 Threshold: 60.0% | Margin: +16.7%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+5. 🇷🇴 Romania Liga 1       | 18:30 | Dinamo Bucureşti vs UTA Arad
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 91.8% → Risk-Adj: 89.8%
+   🚧 Threshold: 55.0% | Margin: +34.8%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+6. 🇪🇸 La Liga              | 19:30 | Villarreal vs Real Oviedo
+   🎯 Pattern: away_over_2_5_corners
+   📊 Confidence: 82.6% → Risk-Adj: 80.6%
+   🚧 Threshold: 60.0% | Margin: +20.6%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ❌ Result: COMPLETE | Outcome: LOSS
+
+
+📅 Saturday, 2025-08-16 (4 bets)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7. 🇪🇸 La Liga              | 17:30 | RCD Mallorca vs FC Barcelona
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 84.7% → Risk-Adj: 79.7%
+   🚧 Threshold: 60.0% | Margin: +19.7%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+8. 🇷🇴 Romania Liga 1       | 18:30 | Petrolul 52 vs Hermannstadt
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 91.7% → Risk-Adj: 89.7%
+   🚧 Threshold: 55.0% | Margin: +34.7%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+9. 🇪🇸 La Liga              | 19:30 | Deportivo Alavés vs Levante UD
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 84.8% → Risk-Adj: 79.8%
+   🚧 Threshold: 60.0% | Margin: +19.8%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+10. 🇪🇸 La Liga              | 19:30 | Valencia CF vs Real Sociedad
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 84.8% → Risk-Adj: 79.8%
+   🚧 Threshold: 60.0% | Margin: +19.8%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+
+📅 Sunday, 2025-08-17 (6 bets)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11. 🇷🇴 Romania Liga 1       | 13:15 | Csikszereda vs CS U Craiova
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 91.8% → Risk-Adj: 89.8%
+   🚧 Threshold: 55.0% | Margin: +34.8%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+12. 🇪🇸 La Liga              | 15:00 | Celta de Vigo vs Getafe CF
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 84.9% → Risk-Adj: 79.9%
+   🚧 Threshold: 60.0% | Margin: +19.9%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+13. 🇷🇴 Romania Liga 1       | 15:30 | CFR Cluj vs Botoşani
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 91.9% → Risk-Adj: 89.9%
+   🚧 Threshold: 55.0% | Margin: +34.9%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+14. 🇪🇸 La Liga              | 17:30 | Athletic Club Bilbao vs Sevilla FC
+   🎯 Pattern: total_under_5_5_goals
+   📊 Confidence: 84.9% → Risk-Adj: 79.9%
+   🚧 Threshold: 60.0% | Margin: +19.9%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+15. 🇷🇴 Romania Liga 1       | 18:30 | Rapid Bucureşti vs FCSB
+   🎯 Pattern: home_over_0_5_cards
+   📊 Confidence: 91.9% → Risk-Adj: 89.9%
+   🚧 Threshold: 55.0% | Margin: +34.9%
+   📈 League Backtest: 75.9% WR | Weights: Long Term (15/15/20/25/25)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+16. 🇪🇸 La Liga              | 19:30 | RCD Espanyol vs Atlético Madrid
+   🎯 Pattern: away_over_0_5_cards
+   📊 Confidence: 82.0% → Risk-Adj: 80.0%
+   🚧 Threshold: 60.0% | Margin: +20.0%
+   📈 League Backtest: 88.4% WR | Weights: Extreme Recent (40/30/15/10/5)
+   ✅ Result: COMPLETE | Outcome: WIN
+
+
+========================================================================================================================
+📝 TRACKING INSTRUCTIONS
+========================================================================================================================
+1. After each match completes, fill in:
+   - Result: COMPLETE
+   - Actual_outcome: e.g., 'Away team got 2 cards' or 'Home won 2-1'
+   - Won: YES or NO
+
+2. Calculate final statistics:
+   - Count total WON bets
+   - Win Rate = WON / TOTAL
+   - Compare to backtest win rates
+
+3. Stop conditions:
+   - After 3 consecutive losses
+   - If win rate drops 10%+ below backtest
+   - After 50% of bankroll loss
+
+========================================================================================================================
+
+⚠️  CRITICAL WARNINGS
+========================================================================================================================
+• NO FORWARD VALIDATION - These predictions are based on BACKTESTING ONLY
+• PAPER TRADE FIRST - Strongly recommended before risking real money
+• CORRELATION RISK - Same patterns across multiple leagues = correlated failure risk
+• STAKE SIZE - Never exceed 1-2% of bankroll per bet
+• DIVERSIFICATION - Don't bet on all predictions, pick 3-5 highest confidence
+• TRACK EVERYTHING - Essential for validating system performance
+========================================================================================================================
+
+
+========================================================================================================================
+📦 JSON DATA (for programmatic tracking)
+========================================================================================================================
+{
+  "generated_at": "2025-11-18T10:06:56.694459",
+  "date_range": {
+    "start": "2025-08-11",
+    "end": "2025-08-17"
+  },
+  "total_predictions": 16,
+  "predictions": [
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-08-11 16:00",
+      "day_of_week": "Monday",
+      "home": "Botoşani",
+      "away": "Argeș",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "89.7%",
+      "risk_adjusted": "87.7%",
+      "threshold": "55.0%",
+      "margin": "+32.7%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-08-11 18:30",
+      "day_of_week": "Monday",
+      "home": "Oţelul Galaţi",
+      "away": "Rapid Bucureşti",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "89.8%",
+      "risk_adjusted": "87.8%",
+      "threshold": "55.0%",
+      "margin": "+32.8%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-08-15 16:00",
+      "day_of_week": "Friday",
+      "home": "Unirea Slobozia",
+      "away": "Metaloglobus",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "92.7%",
+      "risk_adjusted": "90.7%",
+      "threshold": "55.0%",
+      "margin": "+35.7%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-08-15 17:00",
+      "day_of_week": "Friday",
+      "home": "Girona FC",
+      "away": "Rayo Vallecano",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "81.7%",
+      "risk_adjusted": "76.7%",
+      "threshold": "60.0%",
+      "margin": "+16.7%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-08-15 18:30",
+      "day_of_week": "Friday",
+      "home": "Dinamo Bucureşti",
+      "away": "UTA Arad",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "91.8%",
+      "risk_adjusted": "89.8%",
+      "threshold": "55.0%",
+      "margin": "+34.8%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-08-15 19:30",
+      "day_of_week": "Friday",
+      "home": "Villarreal",
+      "away": "Real Oviedo",
+      "pattern": "away_over_2_5_corners",
+      "confidence": "82.6%",
+      "risk_adjusted": "80.6%",
+      "threshold": "60.0%",
+      "margin": "+20.6%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "LOSS"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-08-16 17:30",
+      "day_of_week": "Saturday",
+      "home": "RCD Mallorca",
+      "away": "FC Barcelona",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "84.7%",
+      "risk_adjusted": "79.7%",
+      "threshold": "60.0%",
+      "margin": "+19.7%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-08-16 18:30",
+      "day_of_week": "Saturday",
+      "home": "Petrolul 52",
+      "away": "Hermannstadt",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "91.7%",
+      "risk_adjusted": "89.7%",
+      "threshold": "55.0%",
+      "margin": "+34.7%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-08-16 19:30",
+      "day_of_week": "Saturday",
+      "home": "Deportivo Alavés",
+      "away": "Levante UD",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "84.8%",
+      "risk_adjusted": "79.8%",
+      "threshold": "60.0%",
+      "margin": "+19.8%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-08-16 19:30",
+      "day_of_week": "Saturday",
+      "home": "Valencia CF",
+      "away": "Real Sociedad",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "84.8%",
+      "risk_adjusted": "79.8%",
+      "threshold": "60.0%",
+      "margin": "+19.8%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-08-17 13:15",
+      "day_of_week": "Sunday",
+      "home": "Csikszereda",
+      "away": "CS U Craiova",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "91.8%",
+      "risk_adjusted": "89.8%",
+      "threshold": "55.0%",
+      "margin": "+34.8%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-08-17 15:00",
+      "day_of_week": "Sunday",
+      "home": "Celta de Vigo",
+      "away": "Getafe CF",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "84.9%",
+      "risk_adjusted": "79.9%",
+      "threshold": "60.0%",
+      "margin": "+19.9%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-08-17 15:30",
+      "day_of_week": "Sunday",
+      "home": "CFR Cluj",
+      "away": "Botoşani",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "91.9%",
+      "risk_adjusted": "89.9%",
+      "threshold": "55.0%",
+      "margin": "+34.9%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-08-17 17:30",
+      "day_of_week": "Sunday",
+      "home": "Athletic Club Bilbao",
+      "away": "Sevilla FC",
+      "pattern": "total_under_5_5_goals",
+      "confidence": "84.9%",
+      "risk_adjusted": "79.9%",
+      "threshold": "60.0%",
+      "margin": "+19.9%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "Romania Liga 1",
+      "league_emoji": "🇷🇴",
+      "date": "2025-08-17 18:30",
+      "day_of_week": "Sunday",
+      "home": "Rapid Bucureşti",
+      "away": "FCSB",
+      "pattern": "home_over_0_5_cards",
+      "confidence": "91.9%",
+      "risk_adjusted": "89.9%",
+      "threshold": "55.0%",
+      "margin": "+34.9%",
+      "backtest_wr": "75.9%",
+      "weights": "Long Term (15/15/20/25/25)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    },
+    {
+      "league": "La Liga",
+      "league_emoji": "🇪🇸",
+      "date": "2025-08-17 19:30",
+      "day_of_week": "Sunday",
+      "home": "RCD Espanyol",
+      "away": "Atlético Madrid",
+      "pattern": "away_over_0_5_cards",
+      "confidence": "82.0%",
+      "risk_adjusted": "80.0%",
+      "threshold": "60.0%",
+      "margin": "+20.0%",
+      "backtest_wr": "88.4%",
+      "weights": "Extreme Recent (40/30/15/10/5)",
+      "result": "COMPLETE",
+      "actual_outcome": "",
+      "won": "WIN"
+    }
+  ]
+}
